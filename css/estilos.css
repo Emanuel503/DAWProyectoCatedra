@@ -1,0 +1,16 @@
+.departamentos_SV {
+  fill: #424242;
+}
+
+.departamentos_SV:hover {
+  fill: #46c25b;
+  transition: all 0.7s;
+  -webkit-transition: all 0.7s;
+  -moz-transition: all 0.7s;
+  -ms-transition: all 0.7s;
+  -o-transition: all 0.7s;
+}
+
+.dropdown-item:hover{
+  background: rgb(88, 88, 88);;
+}
