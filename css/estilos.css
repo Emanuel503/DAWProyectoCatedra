@@ -1,8 +1,10 @@
-.departamentos_SV {
+.mapa{
   fill: #424242;
+  stroke: #ffffff;
+  stroke-width: 2px;
 }
 
-.departamentos_SV:hover {
+.departamento:hover {
   fill: #46c25b;
   transition: all 0.7s;
   -webkit-transition: all 0.7s;
@@ -12,5 +14,9 @@
 }
 
 .dropdown-item:hover{
-  background: rgb(88, 88, 88);;
+  background: rgb(88, 88, 88);
+}
+
+h1{
+ padding: 40px;
 }
