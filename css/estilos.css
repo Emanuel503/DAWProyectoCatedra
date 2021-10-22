@@ -1,4 +1,5 @@
-.mapa{
+/*Estilos para el mapa */
+.mapa a{
   fill: #424242;
   stroke: #ffffff;
   stroke-width: 2px;
@@ -13,10 +14,19 @@
   -o-transition: all 0.7s;
 }
 
+/*Estilos para el menu superior*/
 .dropdown-item:hover{
   background: rgb(92, 92, 92);
 }
 
 h1{
  padding: 40px;
+}
+
+/*Estilo para el formulario*/
+fieldset{
+  border: 1px #5c5c5c solid;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f8f8f8;
 }

@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/estilos.css">
+    <title>Proyecto</title>
+  </head>
+<body>
+   <!-- Menu superior adaptativo -->
+   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample08" aria-controls="navbarsExample08" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+           <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
+              <ul class="navbar-nav">
+
+                <li><a class="nav-link " href="../index.html">Inicio</a></li>
+
+                <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="dropdown08" data-bs-toggle="dropdown" aria-expanded="false">Zona occidental</a>
+                        <ul class="dropdown-menu bg-dark">
+                                <li><a class="dropdown-item text-white" href="ahuachapan.html">Ahuachapán</a></li>
+                                <li><a class="dropdown-item text-white" href="santa-ana.html">Santa Ana</a></li>
+                                <li><a class="dropdown-item text-white" href="sonsonate.hmtl">Sonsonate</a></li>
+                        </ul>
+                </li>
+
+                <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="dropdown08" data-bs-toggle="dropdown" aria-expanded="false">Zona central</a>
+                        <ul class="dropdown-menu bg-dark">
+                                <li><a class="dropdown-item text-white" href="la-libertad.html">La libertad</a></li>
+                                <li><a class="dropdown-item text-white" href="san-salvador.html">San Salvador</a></li>
+                                <li><a class="dropdown-item text-white" href="chalatenango.html">Chalatenango</a></li>
+                                <li><a class="dropdown-item text-white" href="cuscatlan.html">Cuscatlan</a></li>
+                                <li><a class="dropdown-item text-white" href="cabanas.html">Cabañas</a></li>
+                                <li><a class="dropdown-item text-white" href="la-paz.html">La Paz</a></li>
+                                <li><a class="dropdown-item text-white" href="san-vicente.html">San Vicente</a></li>
+                        </ul>
+                </li>
+
+                <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="dropdown08" data-bs-toggle="dropdown" aria-expanded="false">Zona oriental</a>
+                        <ul class="dropdown-menu bg-dark">
+                                <li><a class="dropdown-item  text-white" href="usulutan.html">Usulután</a></li>
+                                <li><a class="dropdown-item  text-white" href="san-miguel.html">San Miguel</a></li>
+                                <li><a class="dropdown-item  text-white" href="morazan.html">Morazán</a></li>
+                                <li><a class="dropdown-item  text-white" href="la-union.html">La Unión</a></li>
+                        </ul>
+                </li>
+
+                <li class="nav-item">
+                        <a class="nav-link " href="contactanos.html">Contáctanos</a>  
+                </li>
+              </ul>
+            </div>
+        </div>
+   </nav>
+
+   <div class="container">
+        
+        <center><h1>Contáctanos</h1></center>
+
+         <!-- Fomulario de contactanos -->
+
+        <form>
+            <fieldset>
+                <legend>Ingrese los datos</legend>
+
+                <div class="form-group row">
+                    <label class="col-sm-2 col-form-label" for="nombre">Nombre completo:</label>
+                    <div class="col-sm-10">
+                        <input type="text" id="nombre" class="form-control" required pattern="[A-Za-zñáéíóú. ]{10,}">
+                        <div id="errorNombre" class="invalid-feedback"></div>
+                    </div>
+                </div><br>
+
+                <div class="form-group row">
+                    <label class="col-sm-2 col-form-label" for="email">Correo electrónico:</label>
+                    <div class="col-sm-10">
+                        <input type="email" id="email" class="form-control" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
+                        <div  id="errorEmail" class="invalid-feedback"></div>
+                    </div>
+                </div><br>
+
+                <div class="form-group row">
+                    <label class="col-sm-2 col-form-label" for="pais">País de procedencia:</label>
+                    <div class="col-sm-10">
+                        <input type="text" id="pais" class="form-control" required pattern="[A-Za-zñáéíóú ]{10,20}">
+                        <div  id="errorPais" class="invalid-feedback"></div>
+                    </div>
+                </div><br>
+
+                <div class="form-group row">
+                    <label class="col-sm-2 col-form-label" for="nombre">Comentario:</label>
+                    <div class="col-sm-10">
+                        <textarea id="comentario" class="form-control" required></textarea>
+                        <div  id="errorComentario" class="invalid-feedback"></div>
+                    </div>
+                </div><br>
+                
+                <input type="submit" class="btn btn-primary" id="btnEnviar" value="Enviar">
+                
+            </fieldset>
+        </form>
+
+    </div>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/scripts.js"></script>
+  </body>
+</html>
