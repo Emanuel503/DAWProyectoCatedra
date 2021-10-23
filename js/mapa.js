@@ -132,6 +132,22 @@ var elsalvador = {
     ]
   };
 
-  var nombreDepartamento = document.getElementById('nombreDepartamento');
+//variables para lo elementos del html
+var nombreDepartamento = document.getElementById('nombreDepartamento');
+var datosGenerales = document.getElementById('datosGenerales');
+var id = document.getElementById('identificador').textContent;
 
-  
+//variable que guardara la informacion del JSON para se mostrado en el html
+var datos="";
+
+//guarda en la variable los datos dependiendo del departamento
+datos='<h4>Datos generales</h4><br>'
+datos+='<b>Capital: </b>'+elsalvador.departamento[id].capital+'<br>';
+datos+='<b>Superficie: </b>'+elsalvador.departamento[id].superficie+'<br>';
+datos+='<b>Alcalde: </b>'+elsalvador.departamento[id].alcalde+'<br>';
+datos+='<b>Partido politico: </b>'+elsalvador.departamento[id].partido+'<br>';
+datos+='<b>Poblacion: </b>'+elsalvador.departamento[id].poblacion+'<br>';
+datos+='<b>Numero de municipios: </b>'+elsalvador.departamento[id].numMunicipios+'<br><br>';
+
+//inserta la informacion del JSON en el html
+datosGenerales.innerHTML = datos;

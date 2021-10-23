@@ -41,9 +41,9 @@ function comprobarDatos(){
   var guardar = false;
 
   //Expreciones regulares
-  var expText = "";
-  var expEmail = "";
-  var expComen = "";
+  var expText = "/[#$%&/{´+0-8{}()=]/gi";
+  var expEmail = "/^[a-zA-Z0-9._`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/i";
+  var expComen = "/[#$%&/{+{}()=]/gi";
 
   //Comprobacion de datos utilizando expresiones regulares
 
@@ -51,7 +51,7 @@ function comprobarDatos(){
     nombre.className = "form-control is-invalid";
     errorNombre.innerHTML = "Ingrese el nombre";
     guardar=false;
-  }else if(!expText.test(nombre.value)){
+  }else if(expText.test(nombre.value)){
     nombre.className = "form-control is-invalid";
     errorNombre.innerHTML = "Nombre no valido";
     guardar=false;
@@ -77,7 +77,7 @@ function comprobarDatos(){
     pais.className = "form-control is-invalid";
     errorPais.innerHTML = "Ingrese el país";
     guardar=false;
-  }else if(!expText.test(pais.value)){
+  }else if(expText.test(pais.value)){
     nombre.className = "form-control is-invalid";
     errorNombre.innerHTML = "Pais no valido";
     guardar=false;
@@ -90,7 +90,7 @@ function comprobarDatos(){
     comentario.className = "form-control is-invalid";
     errorComentario.innerHTML = "Ingrese el comentario";
     guardar=false;
-  }else if(!expComen.test(comentario.value)){
+  }else if(expComen.test(comentario.value)){
     comentario.className = "form-control is-invalid";
     errorComentario.innerHTML = "Comentario no valido";
     guardar=false;
