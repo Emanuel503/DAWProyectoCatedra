@@ -142,21 +142,21 @@ function mostrarComentarios(){
   tabla+='</tr>';
   tabla+='</thead>';
   tabla+='<tbody>';
-  for (var dato in Arraycomentarios){
+  for (var i=0; i<Arraycomentarios.length;i++){
     tabla+='<tr>';
       tabla+='<td>'
-      tabla+='Nombre: '+Arraycomentarios[dato].nombre+'<br>';
-      tabla+='Email: '+Arraycomentarios[dato].email+'<br>';
-      tabla+='País: '+Arraycomentarios[dato].pais;
+      tabla+='Nombre: '+Arraycomentarios[i].nombre+'<br>';
+      tabla+='Email: '+Arraycomentarios[i].email+'<br>';
+      tabla+='País: '+Arraycomentarios[i].pais;
       tabla+='</td>';
       tabla+='<td>'
-      tabla+=Arraycomentarios[dato].comentario;
+      tabla+=Arraycomentarios[i].comentario;
       tabla+='</td>';
       tabla+='<td>'
-      tabla+='<img class="botones" id="editar" src="../img/arrow-clockwise.svg" alt="Editar">';
+      tabla+='<img class="botones" id="'+i+'" src="../img/arrow-clockwise.svg" alt="Editar">';
       tabla+='</td>';
       tabla+='<td>'
-      tabla+='<img class="botones" id="eliminar" src="../img/x-square-fill.svg" alt="Eliminar">';
+      tabla+='<img class="botones" id="0'+i+'" src="../img/x-square-fill.svg" alt="Eliminar">';
       tabla+='</td>';
     tabla+='<tr>';
   }
@@ -166,23 +166,26 @@ function mostrarComentarios(){
   //Inserta la taba en html
   comentariosRegistrados.innerHTML = tabla;
 
-  //Obtiene el elemento del html
-  var editar = document.getElementById('editar');
-  var eliminar = document.getElementById('eliminar');
+  
 
-  //agrega un evento click a las imagenes
-  editar.addEventListener('click', editarComentario, false);
-  eliminar.addEventListener('click', eliminarComentario, false);
+  for (var i=0; i<Arraycomentarios.length;i++){
+    //Obtiene el elemento del html
+    var editar = document.getElementById(i);
+    var eliminar = document.getElementById("0"+i);
+
+    //agrega un evento click a las imagenes
+    editar.addEventListener('click', editarComentario, false);
+    eliminar.addEventListener('click', eliminarComentario, false);
+  }
 }
+  
 
 //Funcion que permite editar el comenatario 
 function editarComentario(){
-
-  alert("Me toco");
-
+  alert("Presiono editar");
 }
 
 //Funcion que elmina el comentario
 function eliminarComentario(){
-  alert("Me toco");
+  alert("Presiono eliminar");
 }
