@@ -94,8 +94,8 @@ var elsalvador = {
           "numMunicipios" : "13 municipios" 
         },
         {
-          "nombre" : "Usuluán",
-          "capital" : "(Usuluán)",
+          "nombre" : "Usulután",
+          "capital" : "(Usulután)",
           "superficie" : "2.130 km²",
           "alcalde" : "Luis Ernesto Ayala Benítez",
           "partido" :"Nuevas Ideas",

@@ -30,3 +30,15 @@ fieldset{
   border-radius: 10px;
   background-color: #f8f8f8;
 }
+
+/*Estilo para las imagenes de container*/
+.row img{
+  width: 45%;
+}
+
+/*Estilo para los botones de editar y eliminar*/
+.botones{
+  display:block;
+  margin:auto;
+  cursor: pointer;
+}
