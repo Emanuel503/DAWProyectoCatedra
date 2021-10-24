@@ -132,10 +132,52 @@ var elsalvador = {
     ]
   };
 
-//variables para lo elementos del html
-var nombreDepartamento = document.getElementById('nombreDepartamento');
+
+  //variables para lo elementos del html
 var datosGenerales = document.getElementById('datosGenerales');
 var id = document.getElementById('identificador').textContent;
+var sanSalvador = document.getElementById('san-salvador');
+var laUnion = document.getElementById('la-union');
+
+//Depende del nevegador, se agregara el evento correspodiente
+if(window.addEventListener){
+  window.addEventListener("load", AgregarEventos, false);
+}else if(window.attachEvent){
+  window.attachEvent("onload", AgregarEventos);
+}
+
+//Funcion para agregar los evento al boton
+function AgregarEventos(){
+  sanSalvador.addEventListener('mouseover', mostrarDatosSanSalvador, false);
+  laUnion.addEventListener('mouseover', mostrarDatoslaUnion, false);
+}
+
+function mostrarDatosSanSalvador(){
+  
+  setTimeout(function(){alert(
+    "Departamento: " + elsalvador.departamento[5].nombre+"\n"+
+    "Capital: " + elsalvador.departamento[5].capital+"\n"+
+    "Superficie: " + elsalvador.departamento[5].superficie+"\n"+
+    "Alcalde: " + elsalvador.departamento[5].alcalde+"\n"+
+    "Partido: " + elsalvador.departamento[5].partido+"\n"+
+    "Poblacion: " + elsalvador.departamento[5].poblacion+"\n"+
+    "N° municipios: " + elsalvador.departamento[5].numMunicipios+"\n"
+    )},300);
+}
+
+function mostrarDatoslaUnion(){
+  
+  setTimeout(function(){alert(
+    "Departamento: " + elsalvador.departamento[13].nombre+"\n"+
+    "Capital: " + elsalvador.departamento[13].capital+"\n"+
+    "Superficie: " + elsalvador.departamento[13].superficie+"\n"+
+    "Alcalde: " + elsalvador.departamento[13].alcalde+"\n"+
+    "Partido: " + elsalvador.departamento[13].partido+"\n"+
+    "Poblacion: " + elsalvador.departamento[13].poblacion+"\n"+
+    "N° municipios: " + elsalvador.departamento[13].numMunicipios+"\n"
+    )},300);
+
+}
 
 //variable que guardara la informacion del JSON para se mostrado en el html
 var datos="";

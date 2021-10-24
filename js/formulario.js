@@ -13,7 +13,6 @@ var errorPais = document.getElementById('errorPais');
 var errorComentario= document.getElementById('errorComentario');
 var comentariosRegistrados = document.getElementById('comentariosRegistrados');
 
-
 //Depende del nevegador, se agregara el evento correspodiente
 if(window.addEventListener){
   window.addEventListener("load", AgregarEventos, false);
@@ -166,10 +165,8 @@ function mostrarComentarios(){
   //Inserta la taba en html
   comentariosRegistrados.innerHTML = tabla;
 
-  
-
+   //Obtiene el elemento del html
   for (var i=0; i<Arraycomentarios.length;i++){
-    //Obtiene el elemento del html
     var editar = document.getElementById(i);
     var eliminar = document.getElementById("0"+i);
 
@@ -178,14 +175,19 @@ function mostrarComentarios(){
     eliminar.addEventListener('click', eliminarComentario, false);
   }
 }
-  
 
 //Funcion que permite editar el comenatario 
 function editarComentario(){
-  alert("Presiono editar");
+
+  nombre.value = Arraycomentarios[0].nombre;
+  email.value = Arraycomentarios[0].email;
+  pais.value = Arraycomentarios[0].pais;
+  comentario.value = Arraycomentarios[0].comentario;
+
 }
 
 //Funcion que elmina el comentario
 function eliminarComentario(){
-  alert("Presiono eliminar");
+  localStorage.clear();
+  mostrarComentarios();
 }
