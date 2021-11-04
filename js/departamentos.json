@@ -1,0 +1,424 @@
+[
+    {
+        "nombre" : "Santa Ana",
+        "mapa" : "santa-ana.svg",
+        "capital" : "(Santa Ana)",
+        "superficie" : "408.01 km²",
+        "alcalde" : "Gustavo Acevedo",
+        "partido" :"Nuevas Ideas",
+        "poblacion" : "272.554 habitantes",
+        "municipios" : {
+            "infoMunicipios" : "El municipio más grande de todos ellos es Metapán, y Santa Ana es la ciudad donde se ubica la cabecera departamental de Santa Ana, es decir el centro del departamento. Esta es también una de las ciudades más importantes de El Salvador, debido a su economía. El municipio más pequeño es Santa Rosa Guachipilín.",
+            "numMunicipios" : "13 municipios",
+            "nombreMunicipios"  : ["Candelaria de la Frontera","Chalchuapa","Coatepeque","El Congo","El Porvenir","Masahuat","Metapán","San Antonio Pajonal","San Sebastian Salitrillo","Santa Ana","Santa Rosa Guachipilin","Santiago de la Frontera","Texistepeque"]
+        },
+        "historia" : {
+            "infoHistoria" : "Santa Ana tiene una extensión territorial de 400.05 kilómetros cuadrados, tiene una población de más de doscientos cuarenta  y cinco mil habitantes y se encuentra a 665 metros de altura sobre el nivel del mar. Posee el título de Ciudad, concedido en 1855 y se encuentra a una distancia de 65 kilómetros de San Salvador.",
+            "imagenesHistoria" : ["historiaSantaAna1.jpg"]
+        },
+        "cultura" : {
+            "infoCultura" : "La cultura de Santa Ana y de todo El Salvador es resultado de la influencia de los pobladores indígenas precolombinos y de la colonización española. La institución gubernamental que se encarga de preservar y promover la cultura en todo el país es la Secretaría de Cultura. Asimismo, la ciudad cuenta con su propia oficina descentralizada encargada de preservar y promover la cultura y el arte en todo el municipio: La Coordinadora de cultura, recreación, arte y educación",
+            "imagenesCultura" : ["culturaSantaAna1.jpg"]
+        },
+        "turismo": {
+            "infoTurismo" : "Algunos lugares recomendados a visitar en Santa Ana son el centro histórico de la ciudad compuesto por el parque, la alcaldía, el teatro y la catedral, Centro de Artes de Occidente y Casino Santaneco",
+            "imgTurismo" : ["turismoSantaAna1.jpg"]
+        },
+        "tradiciones" : {
+            "infoTradiciones" : ["La bajada de los Reyes Magos en Santa Ana es una tradición que se realiza en sus calles por más de 100 años. Más de un centenar de niños, jóvenes y adultos desfilan entonando villancicos y chigualos, estos últimos versos tradicionales dedicados al Niño Jesús.","Fietas patronales: La festividad en honor a Santa Ana, en la comunidad del mismo nombre en la provincia de San José, se celebra con fiestas que tienen diversas actividades: reinado, conciertos, festivales de la canción, tope, maratón, carnaval y desfile de autos antiguos, feria de arte y artesanía, así como oficios religiosos. Las antiguas fiestas de Santa Ana se organizaban en el más completo orden bajo la administración de una Comisión de Festejos y subcomisiones específicas, parte organizadora de esta actividad es la Parroquia  de Santa Ana con el fin de obtener fondos para el templo parroquial y rescatar valores en la comunidad. La fecha oficial de Santa Ana es el 26 de julio, sin embargo, las Fiestas Patronales Santa Ana se celebran hasta el domingo primero de agosto. Es un ambiente familiar sin ventas de licor, con ventas de comida y entretenimiento. Las podemos resumir de la siguiente manera: actos religiosos, actos culturales, juegos mecánicos, fútbol, juegos tradicionales, juegos de azar, puestos de comidas típicas, bruja (ruleta), lotería y bingo a cargo de la Cruz Roja, carreras de cintas, mascarada con cimarronas, dianas con cimarrona, marimbas santaneñas, bailes populares,  bailes sociales, reinados de simpatías, algunas veces toros. Entre la comida que los asistentes pueden disfrutar de tortillas de maíz hechas a mano, chop suey, arroz cantonés, elotes con mantequilla, manzanas escarchadas, algodón de azúcar y churros."],
+            "imgTradiciones" : ["tradicionesSantaAna1.jpg","tradicionesSantaAna2.jpg"]
+        }
+    },
+    {
+        "nombre" : "Ahuachapán",
+        "mapa" : "ahuchapan.svg",
+        "capital" : "(Ahuachapán)",
+        "superficie" : "244,8 km²",
+        "alcalde" : "Juan Carlos Zepeda Marroquín",
+        "partido" :"Nuevas Ideas",
+        "poblacion" : "129.750 habitantes",
+        "municipios" : {
+            "infoMunicipios" : "Los municipios de Ahuachapán son los siguientes:",
+            "numMunicipios" : "12 municipios",
+            "nombreMunicipios" : ["Ahuachapán","Apaneca","Atiquizaya","Concepción de Ataco","El Refugio","Jujutla","San Franciso Menéndez","San Lorenzo","San Pedro Puxtla","Tacuba","Turín"]
+        },
+        "historia" : {
+            "infoHistoria" : "Fue creado por el Decreto Legislativo del 9 de febrero de 1869 durante la administración de Francisco Dueñas. Su cabecera es la ciudad de Ahuachapán y consta de dos distritos o partidos: el de Ahuachapán y el de Atiquizaya, instituidos por las leyes de 4 de julio de 1832 y 26 de febrero de 1869, respectivamente.",
+            "imagenesHistoria" : ["historiaAhuachapan1.jpg"]
+        },
+        "cultura" : {
+            "infoCultura" : "Posee la Iglesia La Asunción, el parque concordia donde se encuentra un monumento a ala familia, el parque Francisco Menéndez donde se encuentra erigido el monumento al General Francisco Menéndez ex presidente de la república y una placa de bronce señalando la casa donde vivió el poeta Alfredo Espino, El Arco Duran y la casa de la cultura; Dámaso Aguilar, mismo creador del famoso Arco Durán a petición de don Onofre Durán, construyó también la casa para don Federico Herrera, donde actualmente esta la Casa de la Cultura de la ciudad de Ahuachapán, quien deseaba una hermosa residencia para recibir y homenajear a importantes personalidades de la época.",
+            "imagenesCultura" : ["culturaAhuachapan1.jpg"]
+        },
+        "turismo": {
+            "infoTurismo" : "Dentro de los puntos de interés que se pueden visitar en la parte urbana de la ciudad, se cuenta con la Plaza Mayor, constituida por el Parque Central, conocido como Parque La Concordia, el edificio de la Alcaldía, moderna estructura con un cierto aire de art deco, reconstruida en la década de los 50s, la Iglesia de La Parroquia de La Asunción, una hermosa edificación de estilo colonial con más de 100 años de antigüedad, y el nuevo punto de la ciudad, el Pasaje La Concordia. contiguo a la Iglesia, una hermosa área peatonal con preciosos y coloridos murales y una bellísima fuente luminosa.",
+            "imgTurismo" : ["turismoAhuachapan1.jpg"]
+        },
+        "tradiciones" : {
+            "infoTradiciones" : ["La principal tradición es el Día de La Virgen, que se celebra con los farolitos el cual toma lugar el 07 de septiembre. En tal día los habitantes de la ciudad decoran las calles y casas con farolitos, este es conocido popularmente con el nombre de el Día de los farolitos"],
+            "imgTradiciones" : ["tradicionesAhuachapan1.jpg","tradicionesAhuachapan2.jpg"]
+        }
+    },
+    {
+        "nombre" : "Sonsonate",
+        "mapa" : "sonsonate.svg",
+        "capital" : "(Sonsonate)",
+        "superficie" : "232,5 km²",
+        "alcalde" : "Rafael Arévalo",
+        "partido" :"Nuevas Ideas",
+        "poblacion" : "72.951 habitantes",
+        "municipios" : {
+            "infoMunicipios" : "El municipio más grande de todos ellos es Sonsonate, y es precisamente en esa ciudad donde también se ubica la cabecera departamental de Sonsonate, es decir el centro del departamento. El municipio más pequeño es Sonzacate.",
+            "numMunicipios" : "16 municipios",
+            "nombreMunicipios" : ["Acajutla","Armenia","Caluco","Cuisnahuat","Izalco","Juayúa","Nahuizalco","Nahulingo","Salcoatitán","San Antonio del Monte.","San Julián.","Santa Catarina Masahuat.","Santa Isabel Ishuatán.","Santo Domingo de Guzmán.","Sonsonate","Sonzacate"]
+        },
+        "historia" : {
+            "infoHistoria" : "Sonsonate tiene una extensión territorial de 232.53 kilómetros cuadrados, tiene una población de más de 72 mil habitantes y se encuentra a 225 metros de altura sobre el nivel del mar. Posee el título de Ciudad, concedido en 1824 y se encuentra a una distancia de 64 kilómetros de San Salvador. Sonsonate era una vieja provincia de la Capitanía General de Guatemala. Sin embargo, pudo alcanzar la independencia de los españoles en el año 1821. Pero no fue sino hasta 1824 cuando pudo, conjuntamente con la provincia de San Salvador, llegar a formar lo que hoy se conoce como la República de El Salvador. Por el lado de su ciudad capital, que desde hace mucho tiempo se le considera como un punto de interés comercial debido a los grandes cultivos de café que se dan en las cercanías, encontrándose aproximadamente a unos 19 kilómetros del municipio de Acajutla y 62 kilómetros de distancia de la capital del País, la ciudad de San Salvador. La ciudad de Sonsonate se fundó hacia el año 1552. Pero bajo el nombre de Villa de la Santísima Trinidad de Sonsonate. Para la época de la colonia sirvió como sede de la Alcaldía Mayor de Sonsonate. Cuando se alcanzó la independencia de los españoles, hacia el año de 1824, se le asignó el título de ciudad, siendo como la cabecera departamental del departamento de Sonsonate.",
+            "imagenesHistoria" : ["historiaSonsonate1.jpg"]
+        },
+        "cultura" : {
+            "infoCultura" : "El 75% de la población pertenece la fe católica, existe un 20% que se inclina por el protestantismo. El 2% pertenece a otras religiones y el 3% restante manifiesta no pertenecer a ninguna religión. La tradicion y cultura del departamento de Sonsonate es una de las regiones que más danzas tradicionales tiene en todo el país. Sin embargo, la mayoría de estas se suelen poner en práctica para la época del fin de año, o bien, para recibir el año nuevo.",
+            "imagenesCultura" : ["culturaSonsonate1.jpg"]
+        },
+        "turismo": {
+            "infoTurismo" : "El Parque Nacional Los Volcanes; una zona llena de vegetación y fauna, donde conocerás variadas especies. Además en el espacio en el que verás de cerca el volcán de Izalco, también conocido como el faro del pacífico. Algunos lugares recomendados a visitar en este municipio son las iglesias coloniales de El Pilar, La Santísima Trinidad y Santo Domingo, así como las playas Barra Salada, Barra Ciega y Los Cóbanos.",
+            "imgTurismo" : ["turismoSonsonate1.jpg"]
+        },
+        "tradiciones" : {
+            "infoTradiciones" : ["Otra de las más representativas danzas de este departamento de Sonsonate es la denominada danza los diablitos, La misma se lleva a cabo durante la época decembrina. Sin embargo, en localidades como el municipio de Salcoatitlán se representa el 5 y 6 de enero de cada año. Se trata de un grupo de bailarines que está conformado por 13 integrantes, los cuales son vistos disfrazados de diablos. Generalmente vestidos con una camisa unicolor roja, una cola negra y un pantalón.", "Otro baile típico de esta región es el que se le conoce con el nombre de “los pastores”. El mismo suele llevarse a cabo en la ciudad de Nahuizalco teniendo como fecha para su realización el 6 de enero de cada año. En esta celebración se puede ver una serie de danzarines vestidos con vestimentas de color brillante y con la cabeza ornamentada con plumas. Estos van haciendo sonidos con morritos que han sido llenados con piedras y semillas. Son acompañados con alguna música de cuerdas, típica de esta región.", "Las fiestas patronales de Sonsonate se celebran del 25 de enero al 2 de febrero de cada año, en honor a la Virgen de la Candelaria. La primera imagen de Nuestra Señora de Candelaria llegó a la ciudad en el año 1604 y se encontraba ubicada en el antiguo templo de Nuestra Señora de la Merced. Para 1834 nació la Feria de Nuestra Señora de Candelaria, cuando la imagen fue trasladada al templo parroquial de la Santísima Trinidad. Dicho festejo se instituyó por Decreto gubernamental del Diario Oficial del 28 de abril de 1896, con el nombre de Feria de Candelaria."],
+            "imgTradiciones" : ["tradicionesSonsonate1.jpg","tradicionesSonsonate2.jpg"]
+        }
+    },
+    {   
+       "nombre" : "Chalatenango",
+       "mapa" : "chalatenango.svg",
+       "capital" : "(Chalatenango)",
+       "superficie" : "131,8 km²",
+       "alcalde" : "Alfredo Hernández",
+       "partido" :"Nuevas Ideas",
+       "Área" : "0,75 km²", 
+       "poblacion" : "21.102 habitantes",
+       "municipios" : {
+            "infoMunicipios" : "El departamento de Chalatenango se encuentra dividido en un total de 33 municipios, los cuales se encuentran en una extensión territorial de 2,017 kilómetros cuadrados.",
+            "numMunicipios" : "33 municipios",
+            "nombreMunicipios" : ["Agua caliente.","Arcatao","Azacualpa","Cancasque (San José Cancasque).","Cancasque (San José Cancasque).","Citalá","Comapala","Concepción Quezaltepeque.","Dulce Nombre de María.","El Carrizal.","El Paraíso.","La Laguna.","La Palma.","La Reina.","Las Flores.","Las Vueltas.","Nombre de Jesús.","Nueva Concepción.","Nueva Trinidad.","Ojos de Agua.","Potonico.","San Antonio de la Cruz.","San Antonio Los Ranchos.","San Fernando.","San Francisco Lempa.","San Francisco Morazán.","San Ignacio","San Isidro Labrador.","San Luis del Carmen.","San Miguel de Mercedes.","San Rafael.","Santa Rita","Tejutla."]
+        },
+        "historia" : {
+            "infoHistoria" : "Esta Zona fue habitada durante siglos por tribus Lencas que fueron los primeros en llegar a esas tierras. Pero alrededor del año 1500 fueron invadidos por los Pipiles que eran parte del señorío de Cuzcatlán. Entre las personas de mayor renombre en el departamento de Chalatenango, podemos citar a un expresidente de la república llamado José María San Martín. A este personaje se le debe la fundación de dicho departamento",
+            "imagenesHistoria" : ["historiaChalatenango1.jpg"]
+        },
+        "cultura" : {
+            "infoCultura" : "La cultura de un pueblo está conformada por sus costumbres y tradiciones; las que van pasando de generación en generación y que generalmente, se trasmiten a través de leyendas y canciones autóctonas. Tal es el caso de este departamento de El Salvador; donde resalta el hecho de que a finales del siglo XVIII fue habitada por muchos españoles. Especialmente en Dulce Nombre de María, lo que con llevó a que la gente de este lugar mostrase un color de piel bastante clara y tradiciones procedentes de las costumbres europeas.",
+            "imagenesCultura" : ["culturaChalatenango1.jpg"]
+        },
+        "turismo": {
+            "infoTurismo" : "El municipio de Chalatenango cuenta con una oferta variada de turismo. Uno de los lugares más visitados es el Turicentro Agua Fría, localizado en el área urbana de la ciudad. También puede visitar el río Tamulasco, algunas de sus posas más visitadas son El Pintor, aunque ya no tiene la misma afluencia de agua que antes. Si desea realizar una caminata puede visitar el Cerro La Peña, también puede visitar el centro del municipio, en el cual encontrará algunos edificios históricos como la Catedral de Chalatenango o el Cine Cayaguanca.",
+            "imgTurismo" : ["turismoChalatenango1.jpg"]
+        },
+        "tradiciones" : {
+            "infoTradiciones" : ["Las fiestas patronales, son sin duda alguna, una de las expresiones folclóricas más contundentes de la cultura de este pueblo. Es por esto que en la celebración del día del santo patrono de Chalatenango, la gente se vuelca a las calles en busca de diversión, asisten a retretas, bailes, actos culturales, parques mecánicos, ventas ambulantes de comida y refrescos, ventas de artesanías, bares y restaurantes."],
+            "imgTradiciones" : ["tradicionesChalatenango1.jpg","tradicionesChalatenango2.jpg"]
+        }
+    },
+    { 
+      "nombre" : "La Libertad", 
+      "mapa" : "la-libertad.svg",
+      "capital" : "(Santa Tecla)",
+      "superficie" : "1.653 km²",
+      "alcalde" : "Adelio Ortiz Hernández", 
+      "partido" :"Nuevas Ideas",
+      "poblacion" : "843 500 habitantes",
+      "municipios" : {
+        "infoMunicipios" : "Los municipios de Ahuachapán son los siguientes:",
+        "numMunicipios" : "22 municipios",
+        "nombreMunicipios" : ["Antigüo Cuscatlán.","Chiltiupán","Ciudad Arce.","Colón","Comasagua","Huizúcar","Jayaque","Jicalapa","La Libertad.","Santa Tecla.","Nuevo Cuscatlán.","San Juan Opico.","Quezaltepeque.","Sacacoyo","San josé Villanueva.","San Matías.","San Pablo Tacachico","Talnique","Tamanique","Teotepeque","Tepecoyo","Zaragoza"]
+      },
+      "historia" : {
+          "infoHistoria" : "El municipio cubre un área de 162 km² y la cabecera tiene una altitud de 10 msnm. Las fiestas patronales se celebran en el mes de diciembre en honor a la Inmaculada Concepción. Inician el 30 de noviembre a nivel religioso, pero a nivel civil inician el primero de diciembre. El gran carnaval bailable se realiza en las vísperas de la solemnidad. En los últimos años, y sobre todo en los años, 2018 y 2019 sus fiestas patronales se han vestido de gala con el segundo carnaval más grande de El Salvador, solo por debajo del carnaval de San Miguel. Para ese día, no se encuentra ni una sola cuadra sin personas, todas están abarrotadas por los mismos porteños, capitalinos y personas del interior del país que llegan a disfrutar de su buen ambiente hasta el amanecer con los mejores grupos y discos nacionales e internacionales. Esta zona fue mencionada por el religioso Pedro Cortés y Larraz el año 1770, como la hacienda Tepehaua, una de las más importantes de la parroquia de San Jacinto. De hecho, la región era conocida como rada de Tepehaua, antes de ser habilitada por el Congreso de la República Federal de Centro América como Puerto de La Libertad el 24 de febrero de 1824. El mismo parlamento lo autorizó para el comercio exterior en el litoral del océano Pacífico en 1831. El primer buque de vapor arribó el 7 de junio de 1857.",
+          "imagenesHistoria" : ["historiaLaLibertad1.jpg"]
+      },
+      "cultura" : {
+          "infoCultura" : "Las dos religiones más importantes en La Libertad son el Catolicismo y el Protestantismo; el Catolicismo representa el 16,63% de la población y el Protestantismo el 14,80%. Los Adventistas del séptimo día representan el 13,80% de la población, los Bautistas el 10,78%, los Mormones el 0,84%, los Pentecostales el 7,93%, los Anglicanos el 3,71%, y los Testigos de Jehová el 13,23% (un número muy alto de fieles a esta religión). Los ateos y agnósticos representan el 0,05%, y los creyentes sin religión representan el 15,53%, mientras que el 0,04% pertenece a otras religiones y el 2,65 no ha sido especificado aún.",
+          "imagenesCultura" : ["culturaLaLibertad1.jpg"]
+      },
+      "turismo": {
+          "infoTurismo" : "Las playas de La Libertad brindan olas de clase mundial para practicar surf y Punta Roca, ubicada a pocos minutos al oeste del muelle, es probablemente el más famoso de todos. La dinámica localidad portuaria de La Libertad, igualmente conocida como Puerto de la Libertad y situada en el pliegue ribereño del estado de La Libertad en El Salvador, se está reconciliando en uno de los mejores destinos de surf de América Central para ambulantes internacionales. A solo media hora de San Salvador, las olas de surf de La Libertad son las más notorios de todas las playas de El Salvador, sin embargo sus multitudes todavía se disponen primordialmente de locales y mochileros. Debido a la persistente notoriedad de El Salvador y su falta de infraestructura turística sólida, descubrirá menos turistas en La Libertad en comparación con otras playas de América Central. Eso simboliza que hay menos resorts de lujo de los que hallará, por ejemplo, en Jaco Beach en Costa Rica, pero eso igualmente significa que los visitantes disfrutan de una práctica centroamericana mucho más auténtica.",
+          "imgTurismo" : ["turismoLaLibertad1.jpg"]
+      },
+      "tradiciones" : {
+          "infoTradiciones" : ["Forma tradicional de vestir, Baile de los Viejos con Máscaras, Las pupusas y lo gastronómico","Pescaditas y la yuca frita con cochino","El día de los muertos y la semana santa, La Cruz de Mayo"],
+          "imgTradiciones" : ["tradicionesLaLibertad1.jpg","tradicionesLaLibertad2.jpg"]
+      }
+    },
+    { 
+      "nombre" : "San Salvador",
+      "mapa" : "sanSalvador.svg",
+      "capital" : "(San Salvador)",
+      "superficie" : "72,25 km²",
+      "alcalde" : "Mario Duran",
+      "partido" :"Nuevas Ideas",
+      "Área" : "886,15 kilómetros cuadrados",
+      "poblacion": "2,750,600 habitantes",
+      "municipios" : {
+        "infoMunicipios" : "El municipio más grande de todos ellos es El Paisnal, y San Salvador es la ciudad donde se ubica la cabecera departamental de San Salvador, es decir el centro del departamento. También es la Capital de El Salvador. El municipio más pequeño es Cuscatancingo.",
+        "numMunicipios" : "19 municipios",
+        "nombreMunicipios" : ["Aguilares","Apopa","Ayutuxtepeque","Cuscatancingo","Cuidad Delgado.","El Paisnal.","Guazapa","Ilopango","Mejicanos","Nejapa","Panchimalco","Rosario de Mora.","San Marcos.","San Martin.","San Salvador.","Santiago Texacuangos.","Santo Tomás.","Soyapango","Tonacatepeque"]
+      },
+      "historia" : {
+          "infoHistoria" : "Después de las victorias sobre las huestes pipiles en las batallas de Acajutla y Tacuzcalco, el conquistador Pedro de Alvarado intentó someter a los nativos de la capital del Señorío de Cuzcatlán a su arribo el 18 de junio de 1524. Los cuscatlecos, sin embargo, huyeron a las montañas vecinas y el extremeño tuvo que replegarse hacia la zona de la actual Guatemala. La primera villa de San Salvador se fundó a menos de un año de esta expedición, por una misión no documentada al mando de Gonzalo de Alvarado.7​La primera mención que existe acerca de este asentamiento es una carta del mismo Pedro de Alvarado en Guatemala el 6 de mayo de 1525 haciendo notar que no se podía celebrar un cabildo por la ausencia de Diego de Holguín quien había partido a tomar el puesto de Alcalde ordinario de la villa de San Salvador. Debido a las frecuentes rebeliones en el sitio por parte de los nativos, se estableció una nueva villa en el lugar conocido actualmente como Ciudad Vieja, al sur de la actual localidad de Suchitoto (1 de abril de 1528). Su trazado original tardó quince días y llegó a ser poblada por un número de 50 a 60 viviendas,9​ teniendo por alcaldes a Antonio de Salazar y Juan de Aguilar.",
+          "imagenesHistoria" : ["historiaSanSalvador1.jpg"]
+      },
+      "cultura" : {
+          "infoCultura" : "Del aspecto cultural de San Salvador, podemos decir que está compuesto de sus costumbres; las que demuestran en la celebración de festejos y conmemoraciones. Sus platos típicos, costumbres religiosas y vestimentas típicas, los hacen diferentes de otros pueblos. Así como también su alegre música y sus bailes, donde podemos mencionar El Torito Pinto. Una de sus costumbres es comer pupusas con los dedos; las pupusas son unas tortillas elaboradas con maíz y que constituyen parte de la dieta salvadoreña. Esta viene acompañada y aliñada con una salsa a base de un puré de frijoles y chicharrón triturado; los que se revuelven en una exquisita salsa de tomate, pimentón, cebolla y otros aliños. La masa de maíz, se mezcla con queso Mozzarella a la hora de amasarla.",
+          "imagenesCultura" : ["culturaSanSalvador1.jpg"]
+      },
+      "turismo": {
+          "infoTurismo" : "San Salvador; espacio donde hallarás uno de los Parques Arqueológicos más hermosos del continente. Hablamos de Cihuatán, lugar que te servirá para aprender sobre la vida cotidiana de nuestros antepasados; aquellas famosas primeras Culturas precolombinas de América. El volcán de Santa Ana, El Parque Nacional El Boqueron",
+          "imgTurismo" : ["turismoSanSalvador1.jpg"]
+      },
+      "tradiciones" : {
+          "infoTradiciones" : ["Las Fiestas patronales de San Salvador o fiestas agostinas se celebran en honor al Divino Salvador del Mundo en la ciudad capital de El Salvador. Los eventos principales se realizan el día 5 de agosto, cuando se organiza una procesión con la imagen de Jesucristo que parte de la Basílica del Sagrado Corazón de Jesús y termina frente a Catedral Metropolitana del Divino Salvador del Mundo. En este sitio se realiza año con año una representación de la Transfiguración. Asimismo, el día 6 de agosto se celebra una misa solemne en el atrio de Catedral Metropolitana para cerrar oficialmente las fiestas patronales."],
+          "imgTradiciones" : ["tradicionesSanSalvador1.jpg","tradicionesSanSalvador2.jpg"]
+      }
+    },
+    { 
+      "nombre" : "Cuscatlán",
+      "mapa" : "cuscatlan.svg",
+      "capital" : "(Cojutepeque)",
+      "superficie": "756 km²",
+      "alcalde": "Milagro Navas",
+      "partido" :"Arena", 
+      "poblacion" : "232,238 habitantes",
+      "municipios" : {
+        "infoMunicipios" : "Los municipios de Ahuachapán son los siguientes:",
+        "numMunicipios" : "16 municipios",
+        "nombreMunicipios" : ["Candelaria","Cojutepeque","El Carmen.","El Rosario.","Monte San Juan.","Oratorio de Concepción.","San Bartolomé Perulapía.","San Cristóbal.","San José Guayabal.","San Pedro Perulapán.","San Rafael Cedros.","San Ramón.","Santa Cruz Analquito.","Santa Cruz Michapa.","Sushitoto.","Tenancingo."]
+      },
+      "historia" : {
+          "infoHistoria" : "Cuzcatlán, era desde la antigüedad la ciudad célebre por sus riquezas y el poderío de sus príncipes, la misma fue considerada la principal metrópoli de los aborígenes pipiles de El Salvador Precolombino. Fundada en 1504 por el monarca Topiltzín Acxitl y librada de muchas guerras por el valiente nativo Atlacatl, quien reinó en el lugar antes de la época colonial.En 1770, su población apenas la formaban 19 familias indígenas y 115 ladinos. Los siglos han transcurrido y sucesos importantes han marcado la historia de la ciudad. Cuscatlán constó con los distritos o partidos de Cojutepeque y Suchitoto, creados respectivamente en 1786. El departamento fue constituido durante la administración del jefe de Estado Nicolás Espinoza, por Decreto Ejecutivo el 22 de mayo de 1835. Originalmente Suchitoto fue su cabecera, pero a partir del 12 de noviembre de 1861 es la ciudad de Cojutepeque.",
+          "imagenesHistoria" : ["historiaCuscatlan1.jpg"]
+      },
+      "cultura" : {
+          "infoCultura" : "En la cabecera del departamento de Cuscatlán, en Cojustepeque cuyo nombre en nahua significa cerro de las pavas silvestres se celebra hace 50 años la llegada de la Virgen de Fátima cada 24 de noviembre, con una procesión que sube los 1,025 metros del cerro, unicada a un kilómetro del centro de la ciudad. Celebran además sus fiestas patronales del 15 al 29 de enero, en honor a los patronos San Sebastián Mártir y a la Inmaculada Concepción de María; dichas fiestas son conocidas como las fiestas enerinas y durante las mismas se desarrollan diferentes eventos culturales y tradiciones, como el Festival de la Caña de Azúcar. En el municipio existe una Casa de la Cultura que se dedica principalmente a dar cursos de manualidades, cultura indígena o fomento al patrimonio cultural.",
+          "imagenesCultura" : ["culturaCuscatlan1.jpg"]
+      },
+      "turismo": {
+          "infoTurismo" : "Parque cuscatlán: El Parque Cuscatlán es un lindo parque donde todos logran pasar tiempo en un círculo relajado. Debido a su sitio, es uno de los territorios más populares para relajarse. Territorios importantes y seductores están alrededor y dentro del parque, como el Monumento a la Memoria y la Realidad que está dentro. El monumento es un muro de 85 metros, hecha de granito, con todos los nombres escritos en negro. Se abrió en 2003 cuando una junta para víctimas civiles resolvió abrirlo para rememorar a las personas que fueron liquidadas durante la época de 1970. Igualmente, cerca del parque se halla el Museo Tin Martins. La Sala Nacional de Exhibiciones que muestra exposiciones de arte contemporáneo igualmente está muy cerca.",
+          "imgTurismo" : ["turismoCuscatlan1.jpg"]
+      },
+      "tradiciones" : {
+          "infoTradiciones" : ["Fiestas patronales de Cojutepeque: Primero que nada, en torno a las tradiciones culturales, se debe saber que por el lado de su cabecera departamental, las fiestas patronales se realizan del 15 al 29 de enero de cada año. Así mismo, estas festividades se realizan en honor a La Inmaculada Concepción de María y a San Sebastián Mártir. Popularmente, a estos días de celebración se le conocen como “las fiestas enerinas”, en donde se suelen desarrollar diferentes actividades tradicionales y culturales. Una de las más importantes es la del conocido “festival de la Caña de Azúcar”. También, para estos días, en la casa de la cultura del municipio se suelen dictar diferentes cursos sobre la cultura indígena y diferentes manualidades.","Llegada de la Virgen de Fátima: Otra de las costumbres más importantes de esta región es la de celebrar cada 24 del mes de noviembre la llegada de la Virgen de Fátima. Esta es una costumbre que tiene más de 50 años realizándose en la ciudad de Cojutepeque, la cual su nombre es de procedencia Náhuatl y significa “ Cerros de las pavas”. En esta actividad tradicional se tiene por costumbre caminar un kilómetro. Se inicia desde el centro de la ciudad hasta alcanzar los 1,025 metros del cerro." ],
+          "imgTradiciones" : ["tradicionesCuscatlan1.jpg","tradicionesCuscatlan2.jpg"]
+      }
+    },
+    { 
+      "nombre" : "La Paz",
+      "mapa" : "laPaz.svg",
+      "capital" : "(Zacatecoluca)",
+      "superficie" : "472 km²",
+      "alcalde" : "Osy Swadhy Moreno López",
+      "partido" :"Nuevas Ideas",
+      "poblacion": "764,617 habitantes",
+      "municipios" : {
+        "infoMunicipios" : "El departamento de La Paz tiene 22 municipios que abarcan una extensión total de 1223,61 kilómetros cuadrados. El municipio más grande de todos ellos es Zacatecoluca, y Zacatecoluca es la ciudad donde se ubica la cabecera departamental de La Paz, es decir el centro del departamento. El municipio más pequeño es Jerusalén. Los municipios de La Paz son los siguientes:",
+        "numMunicipios" : "22 municipios",
+        "nombreMunicipios" : ["Zacatecoluca","Cuyultitán","El Rosario.","Jerusalén","Mercedes La Ceiba.","Olocuilta","Paraiso de Osorio.","San Antonio Masahuat.","San Emigdio.","San Francisco Chinameca.","San Pedro Masahuat.","San Juan Nonualco.","San Juan Talpa.","San Juan Tepezontes.","San Luis La Herradura.","San Luis Talpa","San Miguel Tepezontes.","San Pedro Nonualco.","San Rafael Obrajuelo.","Santa Maaria Ostuma.","Santiago Nonualco.","Tapalhuaca"]
+      },
+      "historia" : {
+          "infoHistoria" : "La ciudad de La Paz fue fundada el 20 de octubre de 1548, por el capitán Alonso de Mendoza, bajo el nombre de Nuestra Señora de La Paz. Su gesta libertaria se produjo el 16 de julio de 1809, siendo el primer Gobierno libre de Hispanoamérica. Históricamente, se comprobó gracias a diversos hallazgos arqueológicos, que esta zona estuvo habitada para finales del siglo XI por una serie de comunidades de procedencia mayas-quiches o también conocidos como mayances. También se sabe que cerca de esta fecha fue cuando se produjo la primera ola de invasiones de pueblos centroamericanos de cultura nahuas.",
+          "imagenesHistoria" : ["historiaLaPaz1.jpg"]
+      },
+      "cultura" : {
+          "infoCultura" : "El departamento de la Paz existen dos doctrinas religiosas que se practican muy por encima de las demás. Un 32% de los habitantes pertenecen al Protestantismo y un 59% de la población al Catolicismo. Así mismo, un 2% ciento de la población hace vida en otras religiones, mientras que el 6 % restante manifiesta no tener ninguna preferencia religiosa.",
+          "imagenesCultura" : ["culturaLaPaz1.jpg"]
+      },
+      "turismo": {
+          "infoTurismo" : "En La Paz se hallan los ríos son parte de las tres concavidades principales del país: Pupuluya-Comalapa, los riachuelos Jiboa y los torrentes Jalponga – Lempa, Lago Ilopang, la loma Volcancito, El cráter de San Vicente o también conocido como Chinchontepeque.",
+          "imgTurismo" : ["turismoLaPaz1.jpg"]
+      },
+      "tradiciones" : {
+          "infoTradiciones" : ["Cuyultitán y Mercedes de la Ceiba: las fiestas patronales se celebran en honor Santa Catarina Mártir. Tiene como fecha de celebración todos los años del 22 al 25 del mes de noviembre. Por el lado de la localidad de Mercedes de la Ceiba, se sabe que en este lugar las festividades religiosas se dan año tras año del 22 al 24 de noviembre, siendo dedicadas a la adoración de Nuestra Señora de las Mercedes.","Paraíso de Osorio y Rosario de la Paz: En el municipio de Paraíso de Osorio la fiestas patronales se hacen en honor a la Santa Cruz. Estas se suelen realizar año tras año del 4 al 13 de marzo. De igual manera, pero en el municipio Rosario de la Paz, se suelen llevar a cabo las festividades religiosas en honor a Nuestra Señora del Rosario. Las mismas se acostumbran realizarse del 11 al 19 de diciembre."],
+          "imgTradiciones" : ["tradicionesLaPaz1.jpg","tradicionesLaPaz2.jpg"]
+      }
+    },
+    { 
+      "nombre": "Cabañas",
+      "mapa" : "cabanas.svg",
+      "capital" : "(Sensuntepeque)",
+      "superficie": "1.104 km²",
+      "alcalde" : "José Santos Alfaro Echeverría",
+      "partido" :"Gana",
+      "poblacion" : "215,400 habitantes",
+      "municipios" : {
+        "infoMunicipios" : "Los municipios de Ahuachapán son los siguientes:",
+        "numMunicipios" : "9 municipios",
+        "nombreMunicipios" : ["Cinguera","Dolores","Guacotecti","Ilobasco","Jutiapa","San Isidro.","Sensuntepeque","Tejutepeque","Victoria"]
+      },
+      "historia" : {
+          "infoHistoria" : "El departamento de Cabañas fue erigido durante la administración del Mariscal de Campo don Santiago González el 10 de febrero de 1873. Su cabecera quedó constituida Sensuntepeque, antes La Puebla de Tihuapa, creado en 1796. En 1560 Sensuntepeque tenía una población de unos 1,100 habitantes, y a finales del siglo XVI fue entregado como pueblo de doctrina o evangelización a los frailes dominicanos del convento de San Salvador. Pues como tal figura en la nómina hecha por el cronista fraile Antonio Remesal en 1609. Estos monjes pusieron la iglesia de este pueblo bajo la advocación de Santa Bárbara, patrona nominal de Sensuntepeque. Respecto a su ubicación dentro de El Salvador, se debe saber que este departamento se encuentra hacia la zona Paracentral, específicamente en lo que se conoce como el centro-norte del país. En este sentido, por el Oeste limita con el departamento de Cuscatlán y por el Este lo hace con el departamento de San Miguel. Así mismo, por el Sur colinda con el departamento de San Vicente. En sus límites del lado Norte y Noreste, se encuentra con el río Lempa, el cual tiene la función se servir como frontera natural entre los territorios del El Salvador y Honduras.",
+          "imagenesHistoria" : ["historiacabanas1.jpg"]
+      },
+      "cultura" : {
+          "infoCultura" : "Los festejos se realizan en honor a su patrona Nuestra Señora de la Asunción del Tránsito, quien ese mismo día recibirá los honores que corresponden con una emotiva serenata en el atrio de la iglesia. Una caravana llena de color y diversión partirá a las 8:00 a.m. desde la avenida Bernal y se desplazará por las principales calles de la ciudad hasta llegar a la alcaldía de Mejicanos, anunciando que los festejos arrancaron. El recorrido de inauguración contará con la participación de bandas de paz, el desfile de las reinas en sus respectivas carrozas, los personajes de la mitología salvadoreña, que como es característico realizan sus travesuras con la concurrencia.",
+          "imagenesCultura" : ["culturacabanas1.jpg"]
+      },
+      "turismo": {
+          "infoTurismo" : "Cabañas disfrutarás de muchas tradiciones, entre las más destacadas están los Fogones, que se realiza cada 7 de diciembre desde las 6:00 p.m. La celebración es durante la víspera de la Virgen de la Concepción y consiste en juntar hojas y quemarlas en puntos estratégicos. Su gastronomía también te cautivará, ya que podrás degustar algunos platillos típicos como pupusas, marquesotes, tamales, leche cruda con tortilla y riguas remojadas con leche recién ordeñada. Y es que, Cabañas se caracteriza por la ganadería y la producción de lácteos. Entre las joyas naturales que puedes visitar están el cerro de La Cruz, a 921 metros sobre el nivel del mar; el cerro Ocotillo a 1,014 metros sobre el nivel del mar; el río Lempa, que se extiende unos 88 kilómetros por este departamento; la Presa Hidroeléctrica 5 de Noviembre y los embalses del Cerrón Grande. La fama de sus artesanías lo posicionan bien dentro y fuera del país, especialmente por sus figuras y artículos de barro, hechos en el municipio de Ilobasco, el cual debes conocer de cerca a través de sus talleres de alfarería. Cinquera es otro de sus municipios que te mostrará cómo se elaboran los cigarros, los puros y la curtiembre (proceso de la creación del cuero). Y en Victoria descubrirás cómo se producen las escobas de palma.",
+          "imgTurismo" : ["turismocabanas1.jpg"]
+      },
+      "tradiciones" : {
+          "infoTradiciones" : ["Hay dos festividades patronales que se celebran en Sensutepeque:", "Del 24 de noviembre al 5 de diciembre en honor a Santa Bárbara.","15 de agosto Fiesta de la Virgen del Tránsito."],
+          "imgTradiciones" : ["tradicionescabanas1.jpg","tradicionescabanas2.jpg"]
+      }
+    },
+    {
+      "nombre" : "San Vicente",
+      "mapa" : "sanVicente.svg",
+      "capital" : "(San Vicente)",
+      "superficie" : "1.184 km²",
+      "alcalde" : "Roberto Barrientos",
+      "partido" :"Nuevas Ideas",
+      "poblacion" : "223,205 habitantes",
+      "municipios" : {
+        "infoMunicipios" : "Los municipios de San Vicente son los siguientes:",
+        "numMunicipios" : "13 municipios",
+        "nombreMunicipios" : ["Antón Flores.","Chamoco","Chucuyo","Dos Quebradas.","El Caracol.","El Marqueatado.","El Rebelde.","La Joya","La Soledad.","León de Piedra","Los Laureles","Los Pozos","Llanos de Ahichilco","Obrajuelo Lempa","Parras Lempa","San Antonio Ahichilco","San Antonio Caminos","San Antonio Tras El Cerro","San Bartolo Ichanmico","San Diego","San Jacinto","San José Río Frío","San Juan Buenavista","San Rafael San Diego","Santa Gertrudis","Volcán Opico"]
+      },
+      "historia" : {
+          "infoHistoria" : "San Vicente es la ciudad cabecera del municipio y departamento homónimos en El Salvador. Fue fundada en el año 1635 y llegó a ser capital del Estado entre 1834 a 1840, cuando El Salvador formaba parte de la República Federal de Centro América, esto debido a que San Salvador se convirtió en capital federal. Durante la colonización española, fue una de las localidades más importantes de la Intendencia de San Salvador. Limita al norte con Apastepeque y San Ildefonso; al este con Estanzuelas, Mercedes Umaña, Berlín y San Agustín (todos del departamento de Usulután); al sur con Tecoluca y al oeste con Tepetitán y San Cayetano Istepeque.",
+          "imagenesHistoria" : ["historiaSanVicente1.jpg"]
+      },
+      "cultura" : {
+          "infoCultura" : "Debido a la gran cantidad de fieles a la fe católica que hacen vida en este lugar, unas de sus más importante tradiciones es la de celebrar las fiestas patronales. En este sentido, se debe saber que estas bonitas fiestas se llevan a cabo todos los años del 13 hasta el 31 de diciembre. Sin embargo, es propiamente del 23 al 25 de diciembre cuando se dan los actos más importantes en honor a San Vicente Abad y Mártir.",
+          "imagenesCultura" : ["culturaSanVicente1.jpg"]
+      },
+      "turismo": {
+          "infoTurismo" : "Planee un fin de semana de aventura y disfrute de los parajes naturales y arquitectónicos que ofrece San Vicente. Edificios de la época colonial, caminatas al volcán, lugares turísticos y los telares de San Esteban, hacen a este departamento rico en cultura y artesanía. La laguna de Apastepeque es uno de los lugares más atractivos del departamento y, en los últimos tres años, se ha convertido en una opción para muchos salvadoreños amantes de la naturaleza. Los turistas llegan a degustar de la diversidad de platillos típicos que ofrecen los restaurantes de la zona o a dar un paseo en lancha o en JetSki (moto acuática) con sus familiares. El gasto por persona es de $5 en adelante.",
+          "imgTurismo" : ["turismoSanVicente1.jpg"]
+      },
+      "tradiciones" : {
+          "infoTradiciones" : ["Arroz Negro: No puedes dejar de probar sus exquisitos platos tales como lo es el tradicional arroz negro. En este sentido, si todavía no lo has probado, debes saber que el mismo toma este color puesto que se suele teñir con caldo de frijoles. Generalmente, este plato es acompañado con los llamados curtidos y salpicón. Sin embargo, en muchos lugares se prefiere poner de contorno las sabrosas pupusas tan apreciadas por todos los habitantes.","Panes Rellenos: Otra de las deliciosas comidas que se preparan en este lugar son los panes rellenos. Estos suelen venir rellenos de distintos ingredientes como lo son; el pollo, pepino, huevo duro, escabeche, berro, rábano y su respectiva salsa de tomate.","Sorbetes tradicionales: También, es importante saber que para el lado de las bebidas, en estas localidades se suelen preparar los llamados “sorbetes tradicionales”. Estos se suelen preparar de frutas tropicales como; el mango, mora, piña, mamey, naranja, higo entre otro. O bien, se puede preparar el de sabor a café, el cual se hace incorporando algún tipo de chocolate con galleta, leche y ron con pasas. Los cuales siempre puedes acompañar de algún dulce típico del país."],
+          "imgTradiciones" : ["tradicionesSanVicente1.jpg","tradicionesSanVicente2.jpg"]
+      }
+    },
+    {
+      "nombre" : "Usulután",
+      "mapa" : "usulutan.svg",
+      "capital" : "(Usulután)",
+      "superficie" : "2.130 km²",
+      "alcalde" : "Luis Ernesto Ayala Benítez",
+      "partido" :"Nuevas Ideas",
+      "poblacion" : "465,383 habitantes",
+      "municipios" : {
+        "infoMunicipios" : "Los municipios de Usulután son los siguientes:",
+        "numMunicipios" : "23 municipios",
+        "nombreMunicipios" : ["Alegría","Berlín","Californio","Concepcion Batres","El triunfo","Ereguayquin","Estazuelas","Jiquilisco","Jucuapa","Jucuaran","Mercedes Umaña","Nueva Granada","Ozotlan","Puerto el triunfo","San Agustin","San Buenaventurada","San Dionisio","San Francisco Javier","Santa Elena","Santa Maria","Santiago de Maria","Tecapan","Usulután"]
+      },
+      "historia" : {
+          "infoHistoria" : "Usulután fue habitado originalmente por grupos lencas. Hacia el siglo XV, sin embargo, fueron conquistados por pipiles. Durante la época de la conquista, los residentes repelieron durante un mes a las milicias españolas en el año 1529, quienes estaban bajo el mando de Diego de Rojas. Asimismo, en 1539 hostigaron a una avanzada de Pedro de Alvarado en la zona de la actual Bahía de Jiquilisco. No fue hasta 1553 que Diego de Holguín logró la pacificación del sitio.<br><br> De acuerdo al arzobispo Pedro Cortés y Larraz, en 1770 la aldea era cabeza de curato y tenía una población 2 047 habitantes. Debido al establecimiento de la Intendencia de San Salvador en 1786, Usulután fue uno de sus Partidos. Con los intentos de emancipación de 1811, Gregorio Melara lideró una serie de disturbios que llegaron a deponer a las autoridades locales, pero al final fue encarcelado. Nuevamente se involucró en los conatos libertarios de 1814, pero también fue apresado y terminó sus días en la Fortaleza de San Fernando en Omoa.",
+          "imagenesHistoria" : ["historiaUsulutan1.jpg"]
+      },
+      "cultura" : {
+          "infoCultura" : "La ciudad cuenta con 2 grupos scouts pertenecientes a la Asociación de Scouts de El Salvador, ligada a la Organización Mundial del Movimiento Scout entre los cuales figuran:<br><br> -Grupo #63 Oxelotlán<br>-Grupo #100 Xiriualtique",
+          "imagenesCultura" : ["culturaUsulutan1.jpg"]
+      },
+      "turismo": {
+          "infoTurismo" : "Este departamento del este del país, fue denominado, en los años de la favorable agricultura, «El granero de El Salvador», por su vasta elaboración de granos básicos. Situado en la costa baja, el camino de la vía de la costa en bellas condiciones comprende todo el territorio salvadoreño por la parte ribereña. Usulután, es un distrito que cuenta con grandes seductores turísticos, tanto en la zona ribereña como en su serranía.",
+          "imgTurismo" : ["turismoUsulutan1.jpg"]
+      },
+      "tradiciones" : {
+          "infoTradiciones" : ["La Cruz de Mayo: También se conmemora el día de La Cruz de Mayo que es el 3 de Mayo, esta celebración se hace colocando una gran cruz en el patio de las casas, la cual es adornada con flores y papeles de varios colores, a su alrededor, se danza y se hacen oraciones destinadas a la petición de algunas gracias o favores por parte de La Divina Providencia.","Semana Santa: En La Semana Santa, la gente acostumbra hacer una especie de alfombra a base de aserrín o de sal, por donde ha de pasar la procesión de El Santo Sepulcro, así como también la multitud acude a los templos más cercanos para hacer una especie de peregrinación por todas las estaciones que reviven la Pasión de Cristo. Día por día, los fieles van asistiendo a las iglesias, hasta el día Domingo cuando se celebra el día de La Resurrección precedido del Sábado de Gloria.","Las pupusas: Comer pupusas, es otra de las costumbres de Usulután, las Pupusas son una especie de tortillas elaboradas con maíz; la masa se mezcla con queso y se acompaña con una salsa aliñada con cebolla, ají dulce, pimentón, tomate y otros condimentos al gusto, esta mezcla se sofríe con un puré de frijoles y chicharrón triturado. Éste es prácticamente uno de los platos típicos de todo el país, pero en Usulután, así como en el resto de los Departamentos de El Salvador, se hace presente casi a diario."],
+          "imgTradiciones" : ["tradicionesUsulutan1.jpg","tradicionesUsulutan2.jpg"]
+      }
+    },
+    {
+      "nombre" : "San Miguel",
+      "mapa" : "sanMiguel.svg",
+      "capital" : "(San Miguel)",
+      "superficie" : "594 km²",
+      "alcalde" : "José Wilfredo Salgado García",
+      "partido" :"Gana",
+      "poblacion" : "247,126 habitantes",
+      "municipios" : {
+        "infoMunicipios" : "Los municipios de San Miguel son los siguientes:",
+        "numMunicipios" : "20 municipios",
+        "nombreMunicipios" : ["Carolina","Chapeltique","Chinameca","Chirilagua","Cuidad Barrios","Comacaran","El Transito","Lolotique","Moncagua","Nueva Guadalupe","Quelepa","San Antonio del Mosco","San Gerardo","Son Jorge","San Luis de la Reina","San Miguel","San Rafel Oriente","Sesori","Uluazapa"]
+      },
+      "historia" : {
+          "infoHistoria" : "San Miguel es una ciudad y municipio del departamento de San Miguel, El Salvador. Es también la cabecera departamental del departamento homónimo. Históricamente ha sido y sigue siendo, por casi 500 años ya, la ciudad más importante de la zona oriental del país. Tiene una población estimada de 247 119 habitantes para el año 2013, lo que la convierte en la cuarta ciudad más poblada del país, y la tercera más importante por su influencia económica.<br><br>San Miguel fue fundada el 8 de mayo de 1530 por el Capitán Luis de Moscoso bajo el nombre completo de San Miguel de La Frontera, convirtiéndose así en la segunda ciudad colonial española de los territorios hoy salvadoreños, pero se trasladó a su actual ubicación hasta en 1586. Desde entonces, San Miguel se convirtió en émula y rival de San Salvador como segunda ciudad en importancia dentro de la Alcaldía Mayor de San Salvador y, posteriormente, de la Intendencia de San Salvador durante toda la época de colonización española. San Miguel vio fenecido su liderazgo político dentro de la nación a finales del siglo XIX y comienzos del XX debido al ascenso económico de Santa Ana con la agricultura del café. Aunado al hecho que el gobierno salvadoreño dividió toda la zona oriental en cuatro departamentos con el afán de disminuir la influencia política de la élite migueleña<br><br>Hacia mediados del siglo XX tuvo un importante desarrollo económico debido a la agricultura de algodón y henequén, pero la guerra civil salvadoreña alteró su economía y sociedad. En la actualidad, ya a finales del siglo XX y comienzos del XXI, San Miguel ha ido recuperando poco a poco su liderazgo económico y político en gran medida por las remesas familiares de los salvadoreños en los Estados Unidos que han reposicionado a la ciudad como el principal centro de comercio de toda la Zona Oriental de El Salvador. Hoy por hoy, San Miguel es la ciudad líder de toda la región oriental en El Salvador. Representando la capital económica de toda la zona oriental salvadoreña, abarcando cuatro de los 14 departamentos salvadoreños, tres de ellos siendo los más grandes de esta nación.",
+          "imagenesHistoria" : ["historiaSanMiguel1.jpg"]
+      },
+      "cultura" : {
+          "infoCultura" : "La construcción de la Catedral de San Miguel, o Catedral Basílica Santuario Nuestra Señora de la Paz, inició el año 1862 y culminó cien años después. En su interior se encuentra la imagen de Nuestra Señora de la Paz, patrona de la ciudad. Es la estructura más representativa de la urbe y tiene un estilo arquitectónico ecléctico. Su rasgo más distintivo son los dos campanarios que tienen una altura de 57 metros.",
+          "imagenesCultura" : ["culturaSanMiguel1.jpg"]
+      },
+      "turismo": {
+          "infoTurismo" : "Prácticamente, la economía de San Miguel se sustenta del turismo, la cual se ha convertido en la mayor entrada de dinero; gracias a los turistas que vienen a disfrutar de la gastronomía, de las playas y de importantes cadenas hoteleras. Además, el clima de la región es uno de los grandes atractivos, ya que la mayoría de los turistas quieren disfrutar de un clima tropical que no tienen en su lugar de origen.",
+          "imgTurismo" : ["turismoSanMiguel1.jpg"]
+      },
+      "tradiciones" : {
+          "infoTradiciones" : ["Se puede mencionar entre sus celebraciones, la del día de año nuevo, y las festividades decembrinas. Así como también el día 2 de noviembre, en el cual se conmemora el día de los difuntos y la gente tiene por costumbre visitar las tumbas, llevando flores a sus seres queridos.","Otra de las tradiciones es la celebración de la Cruz de Mayo. Esto consiste en colocar una cruz en el centro del patio de una casa y adornarla con flores y papeles de colores. Esta celebración se lleva a cabo el día tres de mayo. Así como también se acostumbra hacer alfombras de aserrín o de sal, por las calles o avenidas por donde suele pasar la Procesión del Santo Sepulcro.","Además esta “el Baile de los Viejos con Máscaras”. Esto consiste en un baile donde las personas se cubren la cara con máscaras que emulan sus diferentes razas como la indígena preferiblemente. Pero también hacen alusión a la población negra y a los blancos españoles."],
+          "imgTradiciones" : ["tradicionesSanMiguel1.jpg","tradicionesSanMiguel2.jpg"]
+      }
+    },
+    { 
+      "nombre" : "Morazán",
+      "mapa" : "morazan.svg",
+      "capital" : "(San Francisco Gotera)",
+      "superficie" : "1.447 km²",
+      "alcalde" : "Alfredo Gonzales",
+      "partido" :"Nuevas Ideas",
+      "poblacion" : "251,447 habitantes",
+      "municipios" : {
+        "infoMunicipios" : "El municipio más grande de todos ellos es Cacaopera, y San Francisco Gotera es la ciudad donde se ubica la cabecera departamental de Morazán, es decir el centro del departamento. El municipio más pequeño es San Isidro. Los municipios de Morazán son los siguientes:",
+        "numMunicipios" : "26 municipios",
+        "nombreMunicipios" : ["Arambala","Cacaopera","Chilanga","Corinto","Delicias de Concepción.","El Divisadero.","El Rosario.","Gualococti","Guatajiagua.","Joateca","Jocoaitique","Jocoro","Lolotiquillo","Meanguera","Osicala","Perquín","San Carlos.","San Fernando.","San Francisco Gotera.","San Isidro.","San Simón.","Sensembra.","Sociedad.","Torola","Yamabal","Yoloaiquínan"]
+      },
+      "historia" : {
+          "infoHistoria" : "Durante la época precolombina fue habitada por indígenas Lencas y Xicaques los cuales desatollaron varias comunidades alrededor del territorio hasta la conquista de Honduras. Durante la época colonial la actividad minera fue la principal causa del establecimiento de los españoles en el sitio, los nativos del pueblo de indios de Tegucigalpa de origen lenca, se ubicaron en la provincia indígena de Sulaco llamada Manianí. Durante toda la colonia fue un importante centro minero y comercial de la capitanía general de Guatemala en el virreinato de la Nueva España, en los últimos años de la Colonia fue adscrita a la intendencia de Comayagua hasta 1812 que fue de nuevo la Alcaldía Mayor. En sus límites nació el más grande héroe de la historia hondureña: Don José Francisco Morazán, inspirador del sueño unionista de Centroamérica. El departamento se fundó por decreto de la primera Asamblea Constituyente del Estado, expedida el 28 de junio de 1825 durante la administración de Dionisio de Herrera.",
+          "imagenesHistoria" : ["historiaMorazan1.jpg"]
+      },
+      "cultura" : {
+          "infoCultura" : "El aspecto cultural del departamento de Morazán atrae a todo tipo de turistas. Sobre todo últimamente en que se ha hecho un llamado conocido como la “Ruta de La Paz, la cual se fue conformando poco a poco después del conflicto que dejó la guerra de la década de los ochenta que dejó este territorio terriblemente asolado.",
+          "imagenesCultura" : ["culturaMorazan1.jpg"]
+      },
+      "turismo": {
+          "infoTurismo" : "Es el departamento de Morazán, se encuentra la Gruta del Espíritu Santo, un Monumento Nacional que es considerado un tesoro en la actualidad. También espacios del Museo Planeur Bleu, siendo una de las mejores opciones para pasar un tiempo en familia. Si esto no es suficiente, siempre puedes visitar La Ruta de La Paz y El Valle del Muerto.",
+          "imgTurismo" : ["turismoMorazan1.jpg"]
+      },
+      "tradiciones" : {
+          "infoTradiciones" : ["Procesión del Santo Sepulcro: La Procesión del Santo Sepulcro, es la de mayor importancia desde el aspecto cultural. En este día, la gente acostumbra hacer unas alfombras de aserrín por las calles donde se va a pasear el féretro con los restos del crucificado, en algunas ocasiones, estas alfombras también son elaboradas con sal.","Cruz de Mayo: Otra de las costumbres de este pueblo y de todos los departamentos de El Salvador, es la celebración de la Cruz de Mayo. Esto consiste en que el día 3 de mayo, se coloca una cruz en el patio de la casa, la cual se decora con papeles, flores de muchos colores y frutas. Esta costumbre es principalmente celebrada por los fieles católicos aunque gran parte de la población lo hace sin pertenecer a esa fe.","El Baile de los Viejos con Máscara: Otra de las costumbres de esta región es realizar El Baile de los Viejos con Máscara. Este baile se hace para connotar la presencia de varias razas. Un grupo de personas se disponen a bailar provistos de máscaras de diferentes colores, donde dejan al descubierto la mezcla de las razas negra, india y blanca. Aunque también se adoptan bailes usados en todo el territorio nacional, aunque los lugares le ponen su toque personal.","Danzas típicas del departamento de Morazán: La danza del Torito Pinto, los Cumpas, el Barreño, los Historiantes; el Jeu Jeu, el baile del Zopilote, son de los Viejos, los historiantes de Panchimalco, los Historiantes de Santiago Texacuangos, los Chapetones, el Cuche de Monte, los Historiantes de Santo Tomás, el Tigre y el venado de San juan Nonualco.. Así mismo, se pueden nombrar: el Piojo y La pulga, el Barreño, los emplumados de Cacaopera, los Negritos de Cacaopera, el Santo Tingo de Sensembra, entre otras tradiciones. También en su cultura, los habitantes del departamento de Morazán entonan algunos cánticos folclóricos como son: los Izalqueños, las Cortadoras, el Carbonero, el Pregón de los Nísperos, las Floreras, el Día de La Cruz, la Suaca, el Xuc, el Sombrerito de Tenancingo, el Mercado, la Panchita, el Baile de Los Chales, el Son Guanaco, y muchos otros que enriqueces el folclor de ésta región."],
+          "imgTradiciones" : ["tradicionesMorazan1.jpg","tradicionesMorazan2.jpg"]
+      }
+    },
+    { 
+      "nombre" : "La Unión",
+      "mapa" : "laUnion.svg",
+      "capital" : "(La Unión)",
+      "superficie" : "144,4 km²",
+      "alcalde" : "Óscar Parada",
+      "partido" :"Nuevas Ideas", 
+      "poblacion" : "372,271 habitantes",
+      "municipios" : {
+        "infoMunicipios" : "Los municipios de La Unión son los siguientes:",
+        "numMunicipios" : "18 municipios",
+        "nombreMunicipios" : ["Anamorós","Bolívar","Concepción de Oriente.","Conchagua","El Carmen.","El Sauce.","Intipucá","La Unión","Lislique","Meanguera del Golfo","Nueva Esparta","Pasaquina","Polorós","San Alejo","San José","Santa Rosa de Lima","Yayantique","Yucuaiquín"]
+      },
+      "historia" : {
+          "infoHistoria" : "El territorio de lo que hoy es la Ciudad de La Unión, fue divisado por primera vez, desde las aguas del Océano Pacífico, cuando a principios del año 1522, el piloto Andrés Niño llegó al Golfo de Conchagua (Golfo Chorotega), y lo bautizó con el nombre de Golfo de Fonseca, en honor al Obispo de Burgos y Presidente del Consejo de Indias, Fraile Juan Rodríguez de Fonseca.<br><br>Andrés Niño desembarcó en la Isla de Meanguera del Golfo frente a las actuales playas del Departamento de La Unión, la conquista no se inició, sino dos años más tarde, en 1524 cuando llegó al territorio salvadoreño el Capitán Hernán Cortés. En 1588 el pirata Francis Drake amenazó a los habitantes del Golfo de Fonseca; así mismo para el año de 1596 los Frailes Seráficos Españoles fundaron la Guardianía de Nuestra Señora de las Nieves de Amapala en el lugar que hoy se conoce como Pueblo Viejo.<br><br>Por Decreto Ejecutivo de 22 de junio de 1865, el licenciado Francisco Dueñas dividió el antiguo y grande departamento de San Miguel en tres: el de este nombre, el de Usulután y el de La Unión, formado este último por los distritos de La Unión y de San Antonio del Sauce (hoy de Santa Rosa de Lima). En virtud de esta erección, la ciudad de San Carlos de La Unión fue elevada a la categoría de cabecera departamental. En 1871 Ricardo Streber tomó la plaza de este puerto, como parte del plan revolucionario acaudillado por el mariscal Santiago González contra la administración dueñista. El 15 de septiembre de 1887, el general José María Barahona y su hijo Francisco, atacaron la ciudad porteña en un vano intento de derrocar la liberal y progresista administración del general Francisco Menéndez. En 1890 tenía 2,980 habitantes.",
+          "imagenesHistoria" : ["historiaLaUnion1.jpg"]
+      },
+      "cultura" : {
+          "infoCultura" : "Entre las manifestaciones culturales del departamento La Unión se puede mencionar la celebración de las fiestas decembrinas, la cual es igual en todo lo ancho y largo del territorio nacional.<br><br>Baile de los viejos con máscaras: También el tradicional “Baile de los Viejos con Máscaras”, que consiste en una gran agrupación de personas que se visten con trajes muy vistosos y coloridos para bailar por las calles provistos de máscaras no menos coloridas.",
+          "imagenesCultura" : ["culturaLaUnion1.jpg"]
+      },
+      "turismo": {
+          "infoTurismo" : "El Golfo de Fonseca: El Golfo de Fonseca, fue descubierto en el año 1522, por el aviador mayor Gil González de Ávila. Los indígenas lo citaban como la entrada de agua Chorotega, pero su colonizador español le proporcionó el actual calificativo en respeto a Fray Juan Rodríguez de Fonseca, viejo obispo de Burgos y gobernador del Real y Superior Consejo de Indias. Presentemente se edifica un actual puerto en la Unión (Cutuco). Que funciona como punto de avance económico y turístico para el territorio. En el centro del golfo se alberga un archipiélago de origen volcánico, del cual los primordiales cayos son Zacate Grande, El Tigre, Exposición y Gueguensi, que conciernen a Honduras.<br><br>La Semana Santa: Otra de las costumbres, es la celebración de la Semana Santa. Por estos días la gente acostumbra a asistir a las procesiones cada día de la semana mayor. Entonces, cuando toca el día de la procesión del Santo Sepulcro, donde hacen alfombras de aserrín o de sal para que pase la imagen de los restos de Jesucristo. También, es costumbre visitar los templos para asistir a las diferentes ceremonias que se celebran por esta fecha en la que se conmemora la pasión de Cristo.",
+          "imgTurismo" : ["turismoLaUnion1.jpg"]
+      },
+      "tradiciones" : {
+          "infoTradiciones" : ["Las picaditas, yuca frita con cochino y el atol: Otro de los platos típicos son las picaditas. Se trata de unas delicias del mar que se degustan a la orilla de la playa y pueden ser fritas o rebozadas. También, la yuca frita con cochino y el atol son alimentos típicos de la región. Es costumbre organizar paseos por la playa acompañados de bailes sobre la arena al son de los instrumentos típicos de El Salvador, los cantantes salen de cualquier lado de manera improvisada."],
+          "imgTradiciones" : ["tradicionesLaUnion1.jpg","tradicionesLaUnion2.jpg"]
+      }
+    }
+]

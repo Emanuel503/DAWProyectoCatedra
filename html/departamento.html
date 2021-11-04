@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/estilos.css">
+    <title>Proyecto</title>
+</head>
+<body>
+    <!-- Menu superior adaptativo -->
+   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+        
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample08" aria-controls="navbarsExample08" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+       <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
+          <ul class="navbar-nav">
+
+            <li><a class="nav-link " href="../index.html">Inicio</a></li>
+
+            <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdown08" data-bs-toggle="dropdown" aria-expanded="false">Zona occidental</a>
+                    <ul class="dropdown-menu bg-dark">
+                            <li><a class="dropdown-item text-white" href="departamento.html">Ahuachapán</a></li>
+                            <li><a class="dropdown-item text-white" href="departamento.html">Santa Ana</a></li>
+                            <li><a class="dropdown-item text-white" href="departamento.html">Sonsonate</a></li>
+                    </ul>
+            </li>
+
+            <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdown08" data-bs-toggle="dropdown" aria-expanded="false">Zona central</a>
+                    <ul class="dropdown-menu bg-dark">
+                            <li><a class="dropdown-item text-white" href="departamento.html">La libertad</a></li>
+                            <li><a class="dropdown-item text-white" href="departamento.html">San Salvador</a></li>
+                            <li><a class="dropdown-item text-white" href="departamento.html">Chalatenango</a></li>
+                            <li><a class="dropdown-item text-white" href="departamento.html">Cuscatlan</a></li>
+                            <li><a class="dropdown-item text-white" href="departamento.html">Cabañas</a></li>
+                            <li><a class="dropdown-item text-white" href="departamento.html">La Paz</a></li>
+                            <li><a class="dropdown-item text-white" href="departamento.html">San Vicente</a></li>
+                    </ul>
+            </li>
+
+            <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdown08" data-bs-toggle="dropdown" aria-expanded="false">Zona oriental</a>
+                    <ul class="dropdown-menu bg-dark">
+                            <li><a class="dropdown-item  text-white" href="departamento.html">Usulután</a></li>
+                            <li><a class="dropdown-item  text-white" href="departamento.html">San Miguel</a></li>
+                            <li><a class="dropdown-item  text-white" href="departamento.html">Morazán</a></li>
+                            <li><a class="dropdown-item  text-white" href="departamento.html">La Unión</a></li>
+                    </ul>
+            </li>
+
+            <li class="nav-item">
+                    <a class="nav-link " href="contactanos.html">Contáctanos</a>  
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav> 
+
+    <div class="container">
+
+        <center>
+            <h1 id="nombreDepartamento"></h1>
+            <div id="imagenMapa"></div>
+        </center>
+
+        <div class="row">
+
+            <div id="datosHistoricos" class="col-12">
+                <h4>Datos historicos</h4>
+            </div>
+
+            <div id="datosGenerales" class="col-12">
+                <h4>Datos Generales</h4>
+            </div>
+
+            <div id="historia" class="col-12">
+                <h4>Historia</h4>
+            </div>
+
+            <div id="municipios" class="col-12">
+                <h4>Municipios</h4>
+            </div>
+
+            <div id="cultura" class="col-12">
+                <h4>Cultura</h4>
+            </div>
+
+            <div id="turismo" class="col-12">
+                <h4>Turismo</h4>
+            </div>
+
+            <div id="tradiciones" class="col-12">
+                <h4>Tradiciones</h4>
+            </div>
+            
+        </div>
+    </div>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/departamentos.json"></script>
+    <script src="../js/departamentos.js"></script>
+</body>
+</html>
