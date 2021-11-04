@@ -31,14 +31,10 @@ fieldset{
   background-color: #f8f8f8;
 }
 
-/*Estilo para las imagenes de container*/
+/*Estilo para las imagenes de row*/
 .row img{
   width: 45%;
-}
-
-/*Estilo para los botones de editar y eliminar*/
-.botones{
-  display:block;
-  margin:auto;
-  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
