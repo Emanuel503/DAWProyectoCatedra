@@ -7,13 +7,9 @@ function cargarDepartamentos(){
         method: 'GET'
     }).then(function(data) {
 
-        data.forEach(function(item) {
-            
+        document.getElementById('nombreDepartamento').innerHTML=data[0].nombre;
+        document.getElementById('imagenMapa').innerHTML='<img src="../img/"'+data[0].mapa+'">';
 
-            alert(item.nombre);
-
-        });
-        
     });
     
 }
