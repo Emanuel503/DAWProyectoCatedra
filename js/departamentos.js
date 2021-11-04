@@ -25,15 +25,14 @@ function cargarDepartamentos(){
         datosGenerales.innerHTML+='<b>Capital: </b>'+departamento[0].capital+'<br>';
         datosGenerales.innerHTML+='<b>Superficie: </b>'+departamento[0].superficie+'<br>';
         datosGenerales.innerHTML+='<b>Alcalde: </b>'+departamento[0].alcalde+'<br>';
-        datosGenerales.innerHTML+='<b>Poblacion: </b>'+departamento[0].alcalde+'<br>';
-        datosGenerales.innerHTML+='<b>N° municipios: </b>'+departamento[0].municipios.numMunicipios+'<br>';
-
+        datosGenerales.innerHTML+='<b>Poblacion: </b>'+departamento[0].poblacion+'<br>';
+        datosGenerales.innerHTML+='<b>N° municipios: </b>'+departamento[0].municipios.numMunicipios;
 
         //Datos historicos e imagen
         historia.innerHTML+='<p>'+departamento[0].historia.infoHistoria+'</p>';
-        historia.innerHTML+='<img class="img-fluid" src="../img/'+departamento[0].historia.imagenesHistoria+'"><br>';
+        historia.innerHTML+='<img class="img-fluid" src="../img/'+departamento[0].historia.imagenesHistoria+'">';
 
-        //Datos hitoricos e imagen
+        //Municipios
         municipios.innerHTML+='<p>'+departamento[0].municipios.infoMunicipios+'</p>';
         municipios.innerHTML+='<ul>';
         for(var i=0; i<departamento[0].municipios.nombreMunicipios.length; i++){
@@ -41,8 +40,5 @@ function cargarDepartamentos(){
         }
         municipios.innerHTML+='</ul>';
 
-
-        
-
-    });  
+    });
 }

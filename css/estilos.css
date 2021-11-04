@@ -38,3 +38,7 @@ fieldset{
   margin-right: auto;
   display: block;
 }
+
+.col-12{
+  margin-bottom: 20px;
+}
