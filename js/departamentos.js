@@ -19,7 +19,7 @@ function cargarDepartamentos(){
 
         nombre.innerHTML=departamento[0].nombre;
         mapa.innerHTML='<img src="../img/'+departamento[0].mapa+'">';
-        datosHistoricos.innerHTML=departamento.historia.infoHistoria;
-        datosHistoricos.innerHTML+='<img class="img-fluid" src="../img/'+departamento.historia.imagenesHistoria+'">';
+        datosHistoricos.innerHTML=departamento[0].historia.infoHistoria;
+        datosHistoricos.innerHTML+='<img class="img-fluid" src="../img/'+departamento[0].historia.imagenesHistoria+'">';
     });  
 }
