@@ -1,6 +1,14 @@
 window.onload = cargarDepartamentos();
 
+var id=localStorage.getItem("id");
+
 function cargarDepartamentos(){
+
+    $( "#santa-ana" ).on( "click", function() {
+        alert("clic santa ana");
+    });
+
+    
     
     $.ajax({
         url: '../js/departamentos.json',
