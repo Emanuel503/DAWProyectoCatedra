@@ -60,11 +60,10 @@ function cargarDepartamentos(){
         localStorage.setItem("id", "13");
     });
 
-
     $.ajax({
         url: '../js/departamentos.json',
         method: 'GET'
-    }).then(function(departamento) {
+    }).then(function(departamento){
 
         var nombre = document.getElementById('nombreDepartamento');
         var mapa = document.getElementById('imagenMapa');

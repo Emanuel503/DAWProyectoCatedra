@@ -1,5 +1,6 @@
 //Arreglo donde se guardara el objetoComentario
 var Arraycomentarios = new Array();
+var id=localStorage.getItem("id");
 
 //Obtencion del los elementos del html, guardandoles en su respectiva variable
 var nombre = document.getElementById('nombre');
@@ -24,7 +25,64 @@ if(window.addEventListener){
 
 //Funcion para agregar los evento al boton
 function AgregarEventos(){
+
   btnEnviar.addEventListener('click', comprobarDatos, false);
+
+  $( "#santa-ana" ).on( "click", function() {
+      localStorage.setItem("id", "0");
+  });
+
+  $( "#ahuachapan" ).on( "click", function() {
+      localStorage.setItem("id", "1");
+  });
+
+  $( "#sonsonate" ).on( "click", function() {
+      localStorage.setItem("id", "2");
+  });
+
+  $( "#chalatenango" ).on( "click", function() {
+      localStorage.setItem("id", "3");
+  });
+
+  $( "#la-libertad" ).on( "click", function() {
+      localStorage.setItem("id", "4");
+  });
+
+  $( "#san-salvador" ).on( "click", function() {
+      localStorage.setItem("id", "5");
+  });
+
+  $( "#cuscatlan" ).on( "click", function() {
+      localStorage.setItem("id", "6");
+  });
+
+  $( "#la-paz" ).on( "click", function() {
+      localStorage.setItem("id", "7");
+  });
+
+  $( "#cabanas" ).on( "click", function() {
+      localStorage.setItem("id", "8");
+  });
+
+  $( "#san-vicente" ).on( "click", function() {
+      localStorage.setItem("id", "9");
+  });
+
+  $( "#usulutan" ).on( "click", function() {
+      localStorage.setItem("id", "10");
+  });
+
+  $( "#san-miguel" ).on( "click", function() {
+      localStorage.setItem("id", "11");
+  });
+
+  $( "#morazan" ).on( "click", function() {
+      localStorage.setItem("id", "12");
+  });
+
+  $( "#la-union" ).on( "click", function() {
+      localStorage.setItem("id", "13");
+  });
 }
 
 //Funcion para comprobar y validar los datos introducidos en el fomulario
