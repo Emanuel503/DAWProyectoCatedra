@@ -8,55 +8,55 @@ function cargarDepartamentos(){
         localStorage.setItem("id", "0");
     });
 
-    $( "#ahuachapan #ahuachapan-2" ).on( "click", function() {
+    $( "#ahuachapan, #ahuachapan-2" ).on( "click", function() {
         localStorage.setItem("id", "1");
     });
 
-    $( "#sonsonate" ).on( "click", function() {
+    $( "#sonsonate, #sonsonate-2" ).on( "click", function() {
         localStorage.setItem("id", "2");
     });
 
-    $( "#chalatenango" ).on( "click", function() {
+    $( "#chalatenango, #chalatenango-2" ).on( "click", function() {
         localStorage.setItem("id", "3");
     });
 
-    $( "#la-libertad" ).on( "click", function() {
+    $( "#la-libertad, #la-libertad-2" ).on( "click", function() {
         localStorage.setItem("id", "4");
     });
 
-    $( "#san-salvador" ).on( "click", function() {
+    $( "#san-salvador, #san-salvador" ).on( "click", function() {
         localStorage.setItem("id", "5");
     });
 
-    $( "#cuscatlan" ).on( "click", function() {
+    $( "#cuscatlan, #cuscatlan-2" ).on( "click", function() {
         localStorage.setItem("id", "6");
     });
 
-    $( "#la-paz" ).on( "click", function() {
+    $( "#la-paz, #la-paz-2" ).on( "click", function() {
         localStorage.setItem("id", "7");
     });
 
-    $( "#cabanas" ).on( "click", function() {
+    $( "#cabanas, #cabanas-2" ).on( "click", function() {
         localStorage.setItem("id", "8");
     });
 
-    $( "#san-vicente" ).on( "click", function() {
+    $( "#san-vicente, #san-vicente-2" ).on( "click", function() {
         localStorage.setItem("id", "9");
     });
 
-    $( "#usulutan" ).on( "click", function() {
+    $( "#usulutan, #usulutan-2" ).on( "click", function() {
         localStorage.setItem("id", "10");
     });
 
-    $( "#san-miguel" ).on( "click", function() {
+    $( "#san-miguel, #san-miguel-2" ).on( "click", function() {
         localStorage.setItem("id", "11");
     });
 
-    $( "#morazan" ).on( "click", function() {
+    $( "#morazan, #morazan-2" ).on( "click", function() {
         localStorage.setItem("id", "12");
     });
 
-    $( "#la-union" ).on( "click", function() {
+    $( "#la-union, #la-union-2" ).on( "click", function() {
         localStorage.setItem("id", "13");
     });
 
