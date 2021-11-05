@@ -109,7 +109,6 @@ function cargarDepartamentos(){
         //Tradiciones info
         for(var i=0; i<departamento[id].tradiciones.infoTradiciones.length; i++){
             tradiciones.innerHTML+='<p>'+departamento[id].tradiciones.infoTradiciones[i]+'</p>';
-            tradiciones.innerHTML+='<p>'+departamento[id].tradiciones.infoTradiciones[i]+'</p>';
         }
         //Tradiciones imagenes
         for(var i=0; i<departamento[id].tradiciones.imgTradiciones.length; i++){
