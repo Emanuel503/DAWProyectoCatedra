@@ -55,8 +55,7 @@ function cargarDepartamentos(){
         }
         //Tradiciones imagenes
         for(var i=0; i<departamento[0].tradiciones.imgTradiciones.length; i++){
-            tradiciones.innerHTML+='<img class="img-fluid" src="../img/'+departamento[0].tradiciones.imgTradiciones[i]+'">';
+            tradiciones.innerHTML+='<img class="img-fluid" src="../img/'+departamento[0].tradiciones.imgTradiciones[i]+'"><br>';
         }
-
     });
 }
