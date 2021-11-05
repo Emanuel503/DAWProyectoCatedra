@@ -61,7 +61,7 @@ function cargarDepartamentos(){
     });
 
     $.ajax({
-        url: '../js/departamentos.json',
+        url: 'js/departamentos.json',
         method: 'GET'
     }).then(function(departamento){
 
