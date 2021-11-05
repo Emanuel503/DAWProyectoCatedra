@@ -1,14 +1,17 @@
 window.onload = cargarDepartamentos();
 
+//Funciones de boostrap para las tootip del mapa
 var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
-         var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
-         return new bootstrap.Tooltip(tooltipTriggerEl)
-         })
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+    return new bootstrap.Tooltip(tooltipTriggerEl)
+})
 
+//Variable que guarda del localstorage el id del departamento al que se le dio click
 var id=localStorage.getItem("id");
 
 function cargarDepartamentos(){
 
+    //Lister que se ejecuta al dar clic en cualquier enlace del deparamento; al dar clic guarda el id en el localstorage
     $( "#santa-ana, #santa-ana-2" ).on( "click", function() {
         localStorage.setItem("id", "0");
     });
@@ -63,15 +66,5 @@ function cargarDepartamentos(){
 
     $( "#la-union, #la-union-2" ).on( "click", function() {
         localStorage.setItem("id", "13");
-    });
-
-    $.ajax({
-        url: 'js/departamentos.json',
-        method: 'GET'
-    }).then(function(departamento){
-
-        
-
-        
     });
 }
