@@ -46,12 +46,12 @@ function cargarDepartamentos(){
 
         //Datos turismo e imagen
         turismo.innerHTML+='<p>'+departamento[0].turismo.infoTurismo+'</p>';
-        turismo.innerHTML+='<img class="img-fluid" src="../img/'+departamento[0].turismo.imagenesTurismo+'">';
+        turismo.innerHTML+='<img class="img-fluid" src="../img/'+departamento[0].turismo.imgTurismo+'">';
 
         //Tradiciones info
-        for(var i=0; i<departamento[0].tradiciones.infoMunicipios.length; i++){
-            tradiciones.innerHTML+='<p>'+departamento[0].tradiciones.infoMunicipios[i]+'</p>';
-            tradiciones.innerHTML+='<p>'+departamento[0].tradiciones.infoMunicipios[i]+'</p>';
+        for(var i=0; i<departamento[0].tradiciones.infoTradiciones.length; i++){
+            tradiciones.innerHTML+='<p>'+departamento[0].tradiciones.infoTradiciones[i]+'</p>';
+            tradiciones.innerHTML+='<p>'+departamento[0].tradiciones.infoTradiciones[i]+'</p>';
         }
         //Tradiciones imagenes
         for(var i=0; i<departamento[0].tradiciones.imgTradiciones.length; i++){
