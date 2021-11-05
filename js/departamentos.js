@@ -80,41 +80,41 @@ function cargarDepartamentos(){
         mapa.innerHTML='<img src="../img/'+departamento[id].mapa+'">';
 
         //Datos Generales
-        datosGenerales.innerHTML+='<b>Nombre: </b>'+departamento[0].nombre+'<br>';
-        datosGenerales.innerHTML+='<b>Capital: </b>'+departamento[0].capital+'<br>';
-        datosGenerales.innerHTML+='<b>Superficie: </b>'+departamento[0].superficie+'<br>';
-        datosGenerales.innerHTML+='<b>Alcalde: </b>'+departamento[0].alcalde+'<br>';
-        datosGenerales.innerHTML+='<b>Poblacion: </b>'+departamento[0].poblacion+'<br>';
-        datosGenerales.innerHTML+='<b>N° municipios: </b>'+departamento[0].municipios.numMunicipios;
+        datosGenerales.innerHTML+='<b>Nombre: </b>'+departamento[id].nombre+'<br>';
+        datosGenerales.innerHTML+='<b>Capital: </b>'+departamento[id].capital+'<br>';
+        datosGenerales.innerHTML+='<b>Superficie: </b>'+departamento[id].superficie+'<br>';
+        datosGenerales.innerHTML+='<b>Alcalde: </b>'+departamento[id].alcalde+'<br>';
+        datosGenerales.innerHTML+='<b>Poblacion: </b>'+departamento[id].poblacion+'<br>';
+        datosGenerales.innerHTML+='<b>N° municipios: </b>'+departamento[id].municipios.numMunicipios;
 
         //Datos historicos e imagen
-        historia.innerHTML+='<p>'+departamento[0].historia.infoHistoria+'</p>';
-        historia.innerHTML+='<img class="img-fluid" src="../img/'+departamento[0].historia.imagenesHistoria+'">';
+        historia.innerHTML+='<p>'+departamento[id].historia.infoHistoria+'</p>';
+        historia.innerHTML+='<img class="img-fluid" src="../img/'+departamento[id].historia.imagenesHistoria+'">';
 
         //Municipios
-        municipios.innerHTML+='<p>'+departamento[0].municipios.infoMunicipios+'</p>';
+        municipios.innerHTML+='<p>'+departamento[id].municipios.infoMunicipios+'</p>';
         municipios.innerHTML+='<ul>';
         for(var i=0; i<departamento[0].municipios.nombreMunicipios.length; i++){
-            municipios.innerHTML+='<li>'+departamento[0].municipios.nombreMunicipios[i]+'</li>';
+            municipios.innerHTML+='<li>'+departamento[id].municipios.nombreMunicipios[i]+'</li>';
         }
         municipios.innerHTML+='</ul>';
 
         //Datos cultura e imagen
-        cultura.innerHTML+='<p>'+departamento[0].cultura.infoCultura+'</p>';
-        cultura.innerHTML+='<img class="img-fluid" src="../img/'+departamento[0].cultura.imagenesCultura+'">';
+        cultura.innerHTML+='<p>'+departamento[id].cultura.infoCultura+'</p>';
+        cultura.innerHTML+='<img class="img-fluid" src="../img/'+departamento[id].cultura.imagenesCultura+'">';
 
         //Datos turismo e imagen
-        turismo.innerHTML+='<p>'+departamento[0].turismo.infoTurismo+'</p>';
-        turismo.innerHTML+='<img class="img-fluid" src="../img/'+departamento[0].turismo.imgTurismo+'">';
+        turismo.innerHTML+='<p>'+departamento[id].turismo.infoTurismo+'</p>';
+        turismo.innerHTML+='<img class="img-fluid" src="../img/'+departamento[id].turismo.imgTurismo+'">';
 
         //Tradiciones info
-        for(var i=0; i<departamento[0].tradiciones.infoTradiciones.length; i++){
-            tradiciones.innerHTML+='<p>'+departamento[0].tradiciones.infoTradiciones[i]+'</p>';
-            tradiciones.innerHTML+='<p>'+departamento[0].tradiciones.infoTradiciones[i]+'</p>';
+        for(var i=0; i<departamento[id].tradiciones.infoTradiciones.length; i++){
+            tradiciones.innerHTML+='<p>'+departamento[id].tradiciones.infoTradiciones[i]+'</p>';
+            tradiciones.innerHTML+='<p>'+departamento[id].tradiciones.infoTradiciones[i]+'</p>';
         }
         //Tradiciones imagenes
-        for(var i=0; i<departamento[0].tradiciones.imgTradiciones.length; i++){
-            tradiciones.innerHTML+='<img class="img-fluid" src="../img/'+departamento[0].tradiciones.imgTradiciones[i]+'"><br>';
+        for(var i=0; i<departamento[id].tradiciones.imgTradiciones.length; i++){
+            tradiciones.innerHTML+='<img class="img-fluid" src="../img/'+departamento[id].tradiciones.imgTradiciones[i]+'"><br>';
         }
     });
 }
