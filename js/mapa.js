@@ -8,6 +8,10 @@ function cargarDepartamentos(){
         localStorage.setItem("id", "0");
     });
 
+    $( "#santa-ana-mapa").on( "click", function() {
+        localStorage.setItem("id", "0");
+    });
+
     $( "#ahuachapan, #ahuachapan-2" ).on( "click", function() {
         localStorage.setItem("id", "1");
     });
