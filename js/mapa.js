@@ -4,11 +4,12 @@ var id=localStorage.getItem("id");
 
 function cargarDepartamentos(){
 
-    $( "#santa-ana, #santa-ana-2" ).on( "click", function() {
-        localStorage.setItem("id", "0");
-    });
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+    return new bootstrap.Tooltip(tooltipTriggerEl)
+    })
 
-    $( "#santa-ana-mapa").on( "click", function() {
+    $( "#santa-ana, #santa-ana-2" ).on( "click", function() {
         localStorage.setItem("id", "0");
     });
 
