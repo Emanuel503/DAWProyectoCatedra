@@ -1,5 +1,6 @@
 //Arreglo donde se guardara el objetoComentario
 var Arraycomentarios = new Array();
+
 var id=localStorage.getItem("id");
 
 //Obtencion del los elementos del html, guardandoles en su respectiva variable
