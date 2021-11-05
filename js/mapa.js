@@ -4,11 +4,11 @@ var id=localStorage.getItem("id");
 
 function cargarDepartamentos(){
 
-    $( "#santa-ana santa-ana-2" ).on( "click", function() {
+    $( "#santa-ana, #santa-ana-2" ).on( "click", function() {
         localStorage.setItem("id", "0");
     });
 
-    $( "#ahuachapan ahuachapan-2" ).on( "click", function() {
+    $( "#ahuachapan #ahuachapan-2" ).on( "click", function() {
         localStorage.setItem("id", "1");
     });
 
