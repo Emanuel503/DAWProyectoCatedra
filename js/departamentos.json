@@ -256,19 +256,19 @@
       },
       "historia" : {
           "infoHistoria" : "El departamento de Cabañas fue erigido durante la administración del Mariscal de Campo don Santiago González el 10 de febrero de 1873. Su cabecera quedó constituida Sensuntepeque, antes La Puebla de Tihuapa, creado en 1796. En 1560 Sensuntepeque tenía una población de unos 1,100 habitantes, y a finales del siglo XVI fue entregado como pueblo de doctrina o evangelización a los frailes dominicanos del convento de San Salvador. Pues como tal figura en la nómina hecha por el cronista fraile Antonio Remesal en 1609. Estos monjes pusieron la iglesia de este pueblo bajo la advocación de Santa Bárbara, patrona nominal de Sensuntepeque. Respecto a su ubicación dentro de El Salvador, se debe saber que este departamento se encuentra hacia la zona Paracentral, específicamente en lo que se conoce como el centro-norte del país. En este sentido, por el Oeste limita con el departamento de Cuscatlán y por el Este lo hace con el departamento de San Miguel. Así mismo, por el Sur colinda con el departamento de San Vicente. En sus límites del lado Norte y Noreste, se encuentra con el río Lempa, el cual tiene la función se servir como frontera natural entre los territorios del El Salvador y Honduras.",
-          "imagenesHistoria" : ["historiacabanas1.jpg"]
+          "imagenesHistoria" : ["historiaCabanas1.jpg"]
       },
       "cultura" : {
           "infoCultura" : "Los festejos se realizan en honor a su patrona Nuestra Señora de la Asunción del Tránsito, quien ese mismo día recibirá los honores que corresponden con una emotiva serenata en el atrio de la iglesia. Una caravana llena de color y diversión partirá a las 8:00 a.m. desde la avenida Bernal y se desplazará por las principales calles de la ciudad hasta llegar a la alcaldía de Mejicanos, anunciando que los festejos arrancaron. El recorrido de inauguración contará con la participación de bandas de paz, el desfile de las reinas en sus respectivas carrozas, los personajes de la mitología salvadoreña, que como es característico realizan sus travesuras con la concurrencia.",
-          "imagenesCultura" : ["culturacabanas1.jpg"]
+          "imagenesCultura" : ["culturaCabanas1.jpg"]
       },
       "turismo": {
           "infoTurismo" : "Cabañas disfrutarás de muchas tradiciones, entre las más destacadas están los Fogones, que se realiza cada 7 de diciembre desde las 6:00 p.m. La celebración es durante la víspera de la Virgen de la Concepción y consiste en juntar hojas y quemarlas en puntos estratégicos. Su gastronomía también te cautivará, ya que podrás degustar algunos platillos típicos como pupusas, marquesotes, tamales, leche cruda con tortilla y riguas remojadas con leche recién ordeñada. Y es que, Cabañas se caracteriza por la ganadería y la producción de lácteos. Entre las joyas naturales que puedes visitar están el cerro de La Cruz, a 921 metros sobre el nivel del mar; el cerro Ocotillo a 1,014 metros sobre el nivel del mar; el río Lempa, que se extiende unos 88 kilómetros por este departamento; la Presa Hidroeléctrica 5 de Noviembre y los embalses del Cerrón Grande. La fama de sus artesanías lo posicionan bien dentro y fuera del país, especialmente por sus figuras y artículos de barro, hechos en el municipio de Ilobasco, el cual debes conocer de cerca a través de sus talleres de alfarería. Cinquera es otro de sus municipios que te mostrará cómo se elaboran los cigarros, los puros y la curtiembre (proceso de la creación del cuero). Y en Victoria descubrirás cómo se producen las escobas de palma.",
-          "imgTurismo" : ["turismocabanas1.jpg"]
+          "imgTurismo" : ["turismoCabanas1.jpg"]
       },
       "tradiciones" : {
           "infoTradiciones" : ["Hay dos festividades patronales que se celebran en Sensutepeque:", "Del 24 de noviembre al 5 de diciembre en honor a Santa Bárbara.","15 de agosto Fiesta de la Virgen del Tránsito."],
-          "imgTradiciones" : ["tradicionescabanas1.jpg","tradicionescabanas2.jpg"]
+          "imgTradiciones" : ["tradicionesCabanas1.jpg","tradicionesCabanas2.jpg"]
       }
     },
     {
