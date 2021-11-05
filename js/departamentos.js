@@ -5,7 +5,19 @@ var id=localStorage.getItem("id");
 function cargarDepartamentos(){
 
     $( "#santa-ana" ).on( "click", function() {
-        alert("clic santa ana");
+        localStorage.setItem("id", "0");
+    });
+
+    $( "#ahuachapan" ).on( "click", function() {
+        localStorage.setItem("id", "1");
+    });
+
+    $( "#sonsonate" ).on( "click", function() {
+        localStorage.setItem("id", "2");
+    });
+
+    $( "#chalatenango" ).on( "click", function() {
+        localStorage.setItem("id", "3");
     });
 
     
