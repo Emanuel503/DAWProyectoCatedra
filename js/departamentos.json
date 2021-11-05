@@ -31,7 +31,7 @@
     },
     {
         "nombre" : "Ahuachapán",
-        "mapa" : "ahuchapan.svg",
+        "mapa" : "ahuachapan.svg",
         "capital" : "(Ahuachapán)",
         "superficie" : "244,8 km²",
         "alcalde" : "Juan Carlos Zepeda Marroquín",
@@ -152,7 +152,7 @@
     },
     { 
       "nombre" : "San Salvador",
-      "mapa" : "sanSalvador.svg",
+      "mapa" : "san-sañvador.svg",
       "capital" : "(San Salvador)",
       "superficie" : "72,25 km²",
       "alcalde" : "Mario Duran",
@@ -213,7 +213,7 @@
     },
     { 
       "nombre" : "La Paz",
-      "mapa" : "laPaz.svg",
+      "mapa" : "la-paz.svg",
       "capital" : "(Zacatecoluca)",
       "superficie" : "472 km²",
       "alcalde" : "Osy Swadhy Moreno López",
@@ -273,7 +273,7 @@
     },
     {
       "nombre" : "San Vicente",
-      "mapa" : "sanVicente.svg",
+      "mapa" : "san-vicente.svg",
       "capital" : "(San Vicente)",
       "superficie" : "1.184 km²",
       "alcalde" : "Roberto Barrientos",
@@ -333,7 +333,7 @@
     },
     {
       "nombre" : "San Miguel",
-      "mapa" : "sanMiguel.svg",
+      "mapa" : "san-miguel.svg",
       "capital" : "(San Miguel)",
       "superficie" : "594 km²",
       "alcalde" : "José Wilfredo Salgado García",
@@ -393,7 +393,7 @@
     },
     { 
       "nombre" : "La Unión",
-      "mapa" : "laUnion.svg",
+      "mapa" : "la-union.svg",
       "capital" : "(La Unión)",
       "superficie" : "144,4 km²",
       "alcalde" : "Óscar Parada",
