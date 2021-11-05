@@ -24,7 +24,7 @@ function cargarDepartamentos(){
         localStorage.setItem("id", "4");
     });
 
-    $( "#san-salvador, #san-salvador" ).on( "click", function() {
+    $( "#san-salvador, #san-salvador-2" ).on( "click", function() {
         localStorage.setItem("id", "5");
     });
 
