@@ -279,6 +279,19 @@ $( "#btnGuardar" ).on( "click", function(){
 
 });
 
+$( "#btnCancelar" ).on( "click", function(){
+
+  $("#btnEnviar").css('display', 'inline-block');
+  $("#btnGuardar").css('display', 'none');
+  $("#btnCancelar").css('display', 'none');
+
+  nombre.value="";
+  email.value="";
+  pais.value="";
+  comentario.value="";
+
+});
+
 //Eliminar comentario
 $(document).on("click", ".btn-danger", function(){
 
