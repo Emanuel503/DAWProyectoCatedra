@@ -42,3 +42,11 @@ fieldset{
 .col-12{
   margin-bottom: 25px;
 }
+
+#btnGuardar{
+  display: none;
+}
+
+#btnCancelar{
+  display: none;
+}
